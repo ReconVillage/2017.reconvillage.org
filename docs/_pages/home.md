@@ -9,26 +9,23 @@ header:
   caption:
 excerpt: 'An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaisance.'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/useful_links.png
+    alt: "Useful Links"
+    title: "Useful Links"
+    excerpt: "<a href=''> DEFCON 25 Call for Paper Form</a><br><a href=''> DEFCON 25 Call for Volunteer Form Submission</a><br><a href=''> Sponsor Form</a><br><a href=''> Get Involved Form</a><br>"
     url: "/docs/configuration/"
-    btn_label: "Learn More"
+  - image_path: /assets/images/announcements.png
+    alt: "Announcements"
+    title: "Announcements"
+    excerpt: "Recon Village will be @ DEFCON 25."
+    url: "/docs/license/"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Whats going on?"
+    excerpt: '<a class="twitter-timeline" href="https://twitter.com/ReconVillage">Tweets by ReconVillage</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
     url: "/docs/layouts/"
-    btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
-    btn_label: "Learn More"
 intro:
-  - excerpt: 'DEFCON 25 Call For Papers will be announced soon. &nbsp; [SUBMIT](http://localhost:4000/reconvillage/cfp/){: .btn .btn--twitter}'
+  - excerpt: '<b>Recon Village Call For Papers will be announced very soon. &nbsp; [SUBMIT](http://localhost:4000/reconvillage/cfp/){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}

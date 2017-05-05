@@ -19,7 +19,8 @@ last_modified_at: 2017-05-03T14:28:13-05:00
 | What?                                        | When?	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | DEFCON CFP OPEN | 8th May 2017 |
-| CFP Close | 1st July 2017 |
+| DEFCON Call for Volunteers OPEN | 8th May 2017 |
+| DEFCON CFP Close | 1st July 2017 |
 | Recon Village @ DEFCON 25 | 28th - 30th July 2017|
 | Recon Village Online OSintCTF | 1st - 3rd Septemter 2017|
 
