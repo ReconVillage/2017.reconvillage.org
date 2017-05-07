@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/announcements.png
     alt: "Announcements"
     title: "Announcements"
-    excerpt: "<h3 style='color:green;'>8th May - Recon Village Call For Volunteers is OPEN.<br><br>8th May - Recon Village CFP is OPEN.<br><br>29 April - Recon Village will be @ DEFCON 25.</h3>"
+    excerpt: "<h3 style='color:#53ADC8;'>8th May - Recon Village Call For Volunteers is OPEN.<br><br>8th May - Recon Village CFP is OPEN.<br><br>29 April - Recon Village will be @ DEFCON 25.</h3>"
     url: "/docs/license/"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
