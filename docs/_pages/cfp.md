@@ -17,7 +17,7 @@ last_modified_at: 2017-05-03T14:28:13-05:00
 
 Call for papers for Recon Village @ DEFCON 25 is now <b>OPEN</b>, and will be looking for top-notch presentations and workshops to fill in our schedule. 
 
-If you are passionate about OSINT and Reconnaissance, and want to talk about something you did or you know, in front of a more targetted audience, submit your proposals to Recon Village CFP. 
+If you are passionate about OSINT and Reconnaissance, and want to talk about something you did or you know, in front of a more targeted audience, submit your proposals to Recon Village CFP. 
 We are seeking four kinds of submissions: talks, demos, lightning talks, and workshops with emphasis on following areas:
 
 - Open Source Intelligence
@@ -55,7 +55,7 @@ We are seeking four kinds of submissions: talks, demos, lightning talks, and wor
 
 
 # Note: 
-> Please do not submit to Recon Village CFP if you are not already planning to attend DEF CON 25 as we are unable to provide any speaker assistance in terms of DEFCON Badges / travel / accomodation expenses. Hoteliers don't get us any discount on our name and we can't help you in sorting out your VISA queries either. If you are already attending DEFCON and would like to speak, please send in your proposal through the CFP form. 
+> Please do not submit to Recon Village CFP if you are not already planning to attend DEF CON 25 as we are unable to provide any speaker assistance in terms of DEFCON Badges / travel / accommodation expenses. Hoteliers don't get us any discount on our name and we can't help you in sorting out your VISA queries either. If you are already attending DEFCON and would like to speak, please send in your proposal through the CFP form. 
 
-> As you will submit the CFP form, you should get a confirmation email confirming your submission. If you do not recieve this email, it simply means we have not recieved your submission and you need to submit again.
+> As you will submit the CFP form, you should get a confirmation email confirming your submission. If you do not receive this email, it simply means we have not received your submission and you need to submit again.
 
