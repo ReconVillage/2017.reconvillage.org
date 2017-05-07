@@ -15,6 +15,4 @@ layouts_gallery:
 last_modified_at: 2017-05-03T14:28:13-05:00
 ---
 
-Here is the list of organizations that had helped us. If you also want to get your brand to be listed here??
-
-[Become a Sponsor.]({{ "some_link_here" | absolute_url }}){: .btn .btn--success .btn--large}
+Stuff that goes around at our village won't be free. We are thankful to DEFCON for hosting but we need financial help for prizes, goodies, badges, parties, etc. If you also want to get your brand to be listed here, please drop a mail to sponsors@reconvillage.org and get highlighted at the Biggest Hacker Con.
