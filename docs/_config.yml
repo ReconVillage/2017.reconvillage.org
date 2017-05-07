@@ -74,7 +74,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : "UA-98696763-1" # Replace this with your ID, or delete
 
 
 # Site Author
