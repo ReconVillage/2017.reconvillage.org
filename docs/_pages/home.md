@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   cta_label: "Get Involved.."
-  cta_url: "/getInvolved/"
+  cta_url: "https://docs.google.com/a/reconvillage.org/forms/d/e/1FAIpQLScslWR15Oau7T1Nr9kZ9o7QQI72JEdpLMKpl8zn_S6NCEIZmg/viewform?usp=sf_link"
   caption:
 excerpt: 'An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaisance.'
 feature_row:
