@@ -30,7 +30,7 @@ We are seeking four kinds of submissions: talks, demos, lightning talks, and wor
 - Social Media Intelligence
 - Reconnaisance / OSINT Automation
 
-[Submit]({{ "some_link_here" | absolute_url }}){: .btn .btn--success .btn--large}
+[Submit]({{ "https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link" | absolute_url }}){: .btn .btn--success .btn--large}
 
 ## Speaker Benefits
 
@@ -40,8 +40,6 @@ We are seeking four kinds of submissions: talks, demos, lightning talks, and wor
 - Chance to present in front of a bunch of like minded people.
 - Peer Recognition
 - Free Hugs 
-
-
 
 
 ## Important Dates
