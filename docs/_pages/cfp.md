@@ -22,12 +22,13 @@ We are seeking four kinds of submissions: talks, demos, lightning talks, and wor
 
 - Open Source Intelligence
 - Web Mining and Intelligence
-- Internet as a Tool for Command and Control
-- Information Terrorism
+- Metadata Analysis
+- Counter Intelligence
 - Social Network Analysis
 - Investigative Data Mining
 - Privacy and Legal Issues
 - Social Media Intelligence
+- Homeland Security
 - Reconnaissance / OSINT Automation
 
 [Submit]({{ "https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link" }}){: .btn .btn--success .btn--large}
