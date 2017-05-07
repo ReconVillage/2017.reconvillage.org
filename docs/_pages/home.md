@@ -25,7 +25,7 @@ feature_row:
     excerpt: '<a class="twitter-timeline" href="https://twitter.com/ReconVillage">Tweets by ReconVillage</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
     url: "/docs/layouts/"
 intro:
-  - excerpt: '<b> Recon Village @DEFCON CFP is now OPEN </b> &nbsp; [More Info.](http://reconvillage.org/reconvillage/cfp/){: .btn .btn--twitter}'
+  - excerpt: '<b> Recon Village @DEFCON CFP is now OPEN </b> &nbsp; [More Info.](http://reconvillage.org/cfp/){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
