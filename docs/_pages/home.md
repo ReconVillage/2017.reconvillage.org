@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/useful_links.png
     alt: "Useful Links"
     title: "Useful Links"
-    excerpt: "<h3><a href='https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link'>Recon Village DEFCON 25 CFP Form</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link'> Recon Village Call for Volunteer Form</a><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
+    excerpt: "<h3><a href='https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link'>Recon Village DEFCON 25 CFP Form</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> Recon Village Call for Volunteer Form</a><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
     url: "/docs/configuration/"
   - image_path: /assets/images/announcements.png
     alt: "Announcements"
