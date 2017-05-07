@@ -7,7 +7,7 @@ header:
   cta_label: "Get Involved.."
   cta_url: "https://docs.google.com/forms/d/e/1FAIpQLScslWR15Oau7T1Nr9kZ9o7QQI72JEdpLMKpl8zn_S6NCEIZmg/viewform?usp=sf_link"
   caption:
-excerpt: 'An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaisance.'
+excerpt: 'An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance.'
 feature_row:
   - image_path: /assets/images/useful_links.png
     alt: "Useful Links"

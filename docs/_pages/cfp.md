@@ -17,7 +17,7 @@ last_modified_at: 2017-05-03T14:28:13-05:00
 
 Call for papers for Recon Village @ DEFCON 25 is now <b>OPEN</b>, and will be looking for top-notch presentations and workshops to fill in our schedule. 
 
-If you are passionate about OSINT and Reconnaisance, and want to talk about something you did / or you know, in front of a more targetted audience, Submit your proposals to Recon Village CFP. 
+If you are passionate about OSINT and Reconnaissance, and want to talk about something you did / or you know, in front of a more targetted audience, Submit your proposals to Recon Village CFP. 
 We are seeking four kinds of submissions: talks, demos, lightning talks, and workshops, with more emphasis on following areas:
 
 - Open Source Intelligence
@@ -28,7 +28,7 @@ We are seeking four kinds of submissions: talks, demos, lightning talks, and wor
 - Investigative Data Mining
 - Privacy and Legal Issues
 - Social Media Intelligence
-- Reconnaisance / OSINT Automation
+- Reconnaissance / OSINT Automation
 
 [Submit]({{ "https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link" }}){: .btn .btn--success .btn--large}
 

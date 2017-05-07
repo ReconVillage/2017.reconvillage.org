@@ -15,7 +15,7 @@ layouts_gallery:
 last_modified_at: 2017-05-03T14:28:13-05:00
 ---
 
-Recon Village is an Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaisance. The village consists of a small group of people interested in areas of Open Source Intelligence, Threat Intelligence, Reconnaisance and Red Teaming, with a common goal of encouraging more research on these technologies with focus on security. 
+Recon Village is an Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance. The village consists of a small group of people interested in areas of Open Source Intelligence, Threat Intelligence, Reconnaissance and Red Teaming, with a common goal of encouraging more research on these technologies with focus on security. 
 
 Our goal is to encourage and spread more awareness about these area, since in current age where everyone carries a smartphone, catastrophic amount of our information flows through the internet which could be actively gathered and corelated by an attacker for malicious purposes. 
 

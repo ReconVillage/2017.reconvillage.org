@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Recon Village"
 title_separator          : "-"
 name                     : &name "Recon Village" # &name is a YAML anchor which can be *referenced later
-description              : &description "An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaisance."
+description              : &description "An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance."
 url                      : https://reconvillage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/reconvillage" # the subpath of your site, e.g. "/blog"
 repository               : "reconvillage/reconvillage"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/site-logo.png"
-  bio              : "An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaisance."
+  bio              : "An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance."
   location         : "Internet"
   email            :
   uri              : "https://reconvillage.info"
