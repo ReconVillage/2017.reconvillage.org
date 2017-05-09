@@ -20,5 +20,5 @@ We are thankful to DEFCON for hosting us as well as our sponsors below for supor
 You can also show your support and showcase your brand here. Interested? Please drop an email to sponsors@reconvillage.org and get highlighted at the Biggest Hacker Con.
 
 <p>
-<img src='/assets/images/notsosecure.png' width='300' height='79'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='/assets/images/hardwear.jpg' width='300' height='79'></p>
+<a href='https://www.notsosecure.com/'><img src='/assets/images/notsosecure.png' width='300' height='79'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hardwear.io/"><img src='/assets/images/hardwear.jpg' width='300' height='79'></a></p>
 
