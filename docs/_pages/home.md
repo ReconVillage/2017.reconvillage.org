@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Whats going on?"
-    excerpt: '<a class="twitter-timeline" href="https://twitter.com/ReconVillage">Tweets by ReconVillage</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
+    excerpt: '<a class="twitter-timeline" data-height="500" href="https://twitter.com/ReconVillage">Tweets by ReconVillage</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
     url: "/docs/layouts/"
 intro:
   - excerpt: '<b> Recon Village @DEFCON CFP is now OPEN </b> &nbsp; [More Info.](http://reconvillage.org/cfp/){: .btn .btn--twitter}'
