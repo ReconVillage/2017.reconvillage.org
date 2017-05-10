@@ -20,20 +20,18 @@ foo:
 
 # main links
 main:
-  - title: "About Us"
-    url: /about/
-  - title: "Call For Papers"
+  - title: "CFP"
     url: /cfp/
-  - title: "Schedule"
-    url: /schedule/
   - title: "Get Involved?"
     url: /getInvolved/ 
   - title: "OSInt CTF"
     url: /ctf/ 
+  - title: "Schedule"
+    url: /schedule/
   - title: "Sponsors"
     url: /sponsors/ 
-  - title: "Contact Us"
-    url: /contactus/ 
+  - title: "About Us"
+    url: /about/
 
 
 # documentation links
