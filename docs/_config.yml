@@ -82,9 +82,9 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/site-logo.png"
   bio              : "An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance."
-  location         : "Internet"
+  location         : "Defcon 25, Las Vegas"
   email            :
-  uri              : "https://reconvillage.info"
+  uri              : "https://reconvillage.org"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *reconvillage
+  twitter          : "reconvillage"
   vine             :
   weibo            :
   xing             :
