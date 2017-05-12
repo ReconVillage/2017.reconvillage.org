@@ -32,9 +32,10 @@ Justin Nordine [(@jnordine)](https://twitter.com/jnordine)<br>
 Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)
 
 ### Contact Us:
-We tweet and give announcements about important updates before, during, and after DEFCON / other events from our Twitter handle @reconvillage and our Facebook page @reconvillage. Watch out for major announcements and other niche recon or osint related tweets / retweets / updates.
+We tweet and give announcements about important updates before, during, and after DEFCON / other events from our Twitter handle [@reconvillage](https://twitter.com/reconvillage) and our Facebook page [@reconvillage](https://facebook.com/reconvillage). Watch out for major announcements and other niche recon or osint related tweets / retweets / updates.
 
 If you have any questions, suggestions or queries, please email us at contact@reconvillage.org. Use the same for media inquiries too.
+
 
 ### Shoutout to DEFCON
 Of course this would not have been possible without DEFCON who provided us space, projectors and the most amazing platform to host the village. Also thanks to all the DEFCON goons to help us around everything. 
