@@ -23,13 +23,15 @@ We conduct this event in hacker conferences and our formats includes Comprehensi
 Shubham Mittal [(@upgoingstar)](https://twitter.com/upgoingstar)<br>
 Sudhanshu Chauhan [(@sudhanshu_c)](https://twitter.com/sudhanshu_c)<br>
 Neelu Tripathy [(@neelutripathy)](https://twitter.com/neelutripathy)<br>
+Owen Shearing [(@rebootuser)](https://twitter.com/rebootuser)<br>
 Sandeep Singh [(@sandy1sm)](https://twitter.com/sandy1sm)<br>
 Anant Srivastava [(@anantshri)](https://twitter.com/anantshri)<br>
 Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)
 
 ### CFP Review Panel
 Justin Nordine [(@jnordine)](https://twitter.com/jnordine)<br>
-Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)
+Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)<br>
+Akash Mahajan [(@makash)](https://twitter.com/makash)
 
 ### Volunteers
 Nutan Kumar Panda[(@NutanKumarPanda)](https://twitter.com/NutanKumarPanda)<br>
