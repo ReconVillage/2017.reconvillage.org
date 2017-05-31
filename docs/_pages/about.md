@@ -31,7 +31,7 @@ Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)
 ### CFP Review Panel
 Justin Nordine [(@jnordine)](https://twitter.com/jnordine)<br>
 Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)<br>
-Akash Mahajan [(@makash)](https://twitter.com/makash)
+Akash Mahajan [(@makash)](https://twitter.com/makash)<br>
 Justin Sietz [(@jms_dot_py)](https://twitter.com/jms_dot_py)
 
 ### Volunteers
