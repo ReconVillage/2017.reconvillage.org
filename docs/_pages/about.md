@@ -32,11 +32,13 @@ Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)
 Justin Nordine [(@jnordine)](https://twitter.com/jnordine)<br>
 Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)<br>
 Akash Mahajan [(@makash)](https://twitter.com/makash)
+Justin Sietz [(@jms_dot_py)](https://twitter.com/jms_dot_py)
 
 ### Volunteers
 Nutan Kumar Panda[(@NutanKumarPanda)](https://twitter.com/NutanKumarPanda)<br>
 Jayesh Singh Chauhan[(@jayeshsch)](https://twitter.com/jayeshsch)<br>
 Antriksh Shah[(@antriksh_s)](https://twitter.com/antriksh_s)
+
 
 ### Contact Us:
 We tweet and give announcements about important updates before, during, and after DEFCON / other events from our Twitter handle [@reconvillage](https://twitter.com/reconvillage) and our Facebook page [@reconvillage](https://facebook.com/reconvillage). Watch out for major announcements and other niche recon or osint related tweets / retweets / updates.
