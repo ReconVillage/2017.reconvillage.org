@@ -22,8 +22,8 @@ foo:
 main:
   - title: "CFP"
     url: /cfp/
-  - title: "Get Involved?"
-    url: /getInvolved/ 
+  - title: "Selected Talks"
+    url: /selected-talks/
   - title: "OSInt CTF"
     url: /ctf/ 
   - title: "Schedule"
