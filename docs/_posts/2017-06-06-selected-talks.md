@@ -34,7 +34,7 @@ Whether you do wide scope pentesting or bounty hunting, domain discovery is the 
 
 <div markdown="0"><a href="/domain-discovery-expanding-your-scope-like-a-boss" class="btn btn--success">More Details..</a></div>
 
-### Recon and bug bounties what a great love story
+### Recon and bug bounties - What a great love story!
 by *[@abhijeth](https://twitter.com/abhijeth)*
 
 Recon is an important phase in Penetration Testing. But wait, not everyone does that because everyone’s busy filling forms with values. Effective recon can often give you access to assets/boxes that are less commonly found by regular penetration testers.
