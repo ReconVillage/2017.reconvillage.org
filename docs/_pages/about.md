@@ -24,6 +24,7 @@ Shubham Mittal [(@upgoingstar)](https://twitter.com/upgoingstar)<br>
 Sudhanshu Chauhan [(@sudhanshu_c)](https://twitter.com/sudhanshu_c)<br>
 Neelu Tripathy [(@neelutripathy)](https://twitter.com/neelutripathy)<br>
 Owen Shearing [(@rebootuser)](https://twitter.com/rebootuser)<br>
+Will Hunt [(@stealthsploit)](https://twitter.com/stealthsploit)<br>
 Sandeep Singh [(@sandy1sm)](https://twitter.com/sandy1sm)<br>
 Anant Srivastava [(@anantshri)](https://twitter.com/anantshri)<br>
 Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)
@@ -37,7 +38,8 @@ Justin Sietz [(@jms_dot_py)](https://twitter.com/jms_dot_py)
 ### Volunteers
 Nutan Kumar Panda[(@NutanKumarPanda)](https://twitter.com/NutanKumarPanda)<br>
 Jayesh Singh Chauhan[(@jayeshsch)](https://twitter.com/jayeshsch)<br>
-Antriksh Shah[(@antriksh_s)](https://twitter.com/antriksh_s)
+Antriksh Shah[(@antriksh_s)](https://twitter.com/antriksh_s)<br>
+Kunal Aggarwal [(@KunalAggarwal92)](https://twitter.com/KunalAggarwal92)
 
 
 ### Contact Us:
