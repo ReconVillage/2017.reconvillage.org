@@ -7,7 +7,7 @@ header:
 
 We are pleased to announce the *First Round* of selected talks for Recon Village. 
 
-Final round of talks will be announced by 10th of July. Stay tuned.
+Final round of talks will be announced by 10th of July. Stay tuned...
 
 ### Recon and bug bounties what a great love story
 by *[@abhijeth](https://twitter.com/abhijeth)*
