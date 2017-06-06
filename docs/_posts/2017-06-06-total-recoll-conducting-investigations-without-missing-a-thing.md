@@ -10,11 +10,9 @@ excerpt: "mm"
 
 > This talk will demonstrate what Recoll can do for you using two case studies - searching through a trove of leaked NSA documents and conducting an OSINT investigation online.
 
-
 # Speaker Profile
+### Dakota Nelson [(@jerkota)](https://twitter.com/jerkota)
 
 I've previously spoken at BSides Las Vegas, SOURCE Boston (x2), SOURCE Seattle, and some other smaller gatherings. 
 
 You can find full details at [dakotanelson.com](dakotanelson.com) and [strikersecurity.com](strikersecurity.com)
-
-Twitter: [@jerkota](https://twitter.com/jerkota)

@@ -27,6 +27,13 @@ Extrapolate that out, over the 6.5 million records in my database and you get 2.
 
 <div markdown="0"><a href="/building-google-for-criminal-enterprises/" class="btn btn--success">More Details..</a></div>
 
+### Domain discovery, expanding your scope like a boss
+by *[@Jhaddix](https://twitter.com/Jhaddix)*
+
+Whether you do wide scope pentesting or bounty hunting, domain discovery is the 1st method of expanding your scope. Join Jason as he walks you through his tool chain for discovery including; subdomain scraping, bruteforce, ASN discovery, permutation scanning, automation, and more!
+
+<div markdown="0"><a href="/domain-discovery-expanding-your-scope-like-a-boss" class="btn btn--success">More Details..</a></div>
+
 ### Recon and bug bounties what a great love story
 by *[@abhijeth](https://twitter.com/abhijeth)*
 

@@ -11,7 +11,6 @@ excerpt: "mm"
 
 
 # Speaker Profile
+### Anthony Russell [(@DotNetRussell)](https://twitter.com/DotNetRussell)
 
-[(https://www.dotnetrussell.com/)](https://www.dotnetrussell.com/)
-
-Twitter: [@DotNetRussell](https://twitter.com/DotNetRussell)
+[https://www.dotnetrussell.com/](https://www.dotnetrussell.com/)

@@ -11,12 +11,11 @@ excerpt: "mm"
 
 
 # Speaker Profile
+### Jonathan Cran [(@jcran)](https://twitter.com/jcran)
 
-Twitter: [@jcran](https://twitter.com/jcran)
+- [intrigue.io](intrigue.io)
 
-[intrigue.io](intrigue.io)
+- [jonathancran.com](jonathancran.com)
 
-[jonathancran.com](jonathancran.com)
-
-[pentestify.com](pentestify.com)
+- [pentestify.com](pentestify.com)
 
