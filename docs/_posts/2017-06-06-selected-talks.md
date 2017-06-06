@@ -16,7 +16,7 @@ Recon is an important phase in Penetration Testing. But wait, not everyone does 
 
 In this talk, the speaker will demonstrate few effective techniques using which researchers/pen testers can do better information gathering. The speaker would also share many stories which allowed him to earn some bounties using these recon techniques. This techniques might also be useful to red teams/incident response teams to identify rogue devices in their organisation which are often missed out during normal penetration testing.
 
-<div markdown="0"><a href="/reconvillage/recon-and-bug-bounties-what-a-great-love-story/" class="btn btn--success">More Details..</a></div>
+<div markdown="0"><a href="/recon-and-bug-bounties-what-a-great-love-story/" class="btn btn--success">More Details..</a></div>
 
 ### Building Google For Criminal Enterprises
 by *[@DotNetRussell](https://twitter.com/DotNetRussell)*
