@@ -24,7 +24,7 @@ main:
     url: /cfp/
   - title: "Selected Talks"
     url: /selected-talks/
-  - title: "OSInt CTF"
+  - title: "OSINT CTF"
     url: /ctf/ 
   - title: "Schedule"
     url: /schedule/
