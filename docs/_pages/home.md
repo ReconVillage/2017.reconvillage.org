@@ -12,12 +12,12 @@ feature_row:
   - image_path: /assets/images/useful_links.png
     alt: "Useful Links"
     title: "Useful Links"
-    excerpt: "<h3><a href='https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link'>Recon Village DEFCON 25 CFP Form</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> Recon Village Call for Volunteer Form</a><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
+    excerpt: "<h3><a href='/selected-talks/'>First round of Selected Talks</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link'>Recon Village DEFCON 25 CFP Form</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> Recon Village Call for Volunteer Form</a><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
     url: "/docs/configuration/"
   - image_path: /assets/images/announcements.png
     alt: "Announcements"
     title: "Announcements"
-    excerpt: "<h3 style='color:#53ADC8;'>8th May - Recon Village Call For Volunteers is OPEN.<br><br>8th May - Recon Village CFP is OPEN.<br><br>29 April - Recon Village will be @ DEFCON 25.</h3>"
+    excerpt: "<h3 style='color:#53ADC8;'>6th June - FIrst Round of Selected Talks Announced<br><br>31 May - Shane McDougall will be our Keynote Speaker.<br><br>8th May - Call For Volunteers is OPEN.<br><br>8th May - CFP is OPEN till 1st July.<br><br>29 April - Recon Village will be @ DEFCON 25.</h3>"
     url: "/docs/license/"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
