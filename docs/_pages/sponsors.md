@@ -15,7 +15,7 @@ layouts_gallery:
 last_modified_at: 2017-06-19T14:28:13-05:00
 ---
 
-We are thankful to DEFCON 25 for hosting us as well as our sponsors below for suporting us with prizes, goodies, badges, parties, etc. 
+We are thankful to DEFCON 25 for hosting us as well as our sponsors below for suporting us with prizes, goodies, badges, parties, servers, etc. 
 
 You can also show your support and showcase your brand here. Interested? Please drop an email to sponsors@reconvillage.org and get highlighted at the Biggest Hacker Con.
 <center>
