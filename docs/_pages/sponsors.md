@@ -19,6 +19,6 @@ We are thankful to DEFCON 25 for hosting us as well as our sponsors below for su
 
 You can also show your support and showcase your brand here. Interested? Please drop an email to sponsors@reconvillage.org and get highlighted at the Biggest Hacker Con.
 <center>
-<a href="www.synack.com/red-team/" target="_blank"><img src='/assets/images/Synack.jpg' width='600' height='158' ></a><br><a href='https://www.notsosecure.com/' target="_blank"><img src='/assets/images/notsosecure.png' width='300' height='79'></a><br><a href="http://hardwear.io/" target="_blank"><img src='/assets/images/hardwear.jpg' width='300' height='79' ></a>
+<a href="https://www.synack.com/red-team/" target="_blank"><img src='/assets/images/Synack.jpg' width='600' height='158' ></a><br><a href='https://www.notsosecure.com/' target="_blank"><img src='/assets/images/notsosecure.png' width='300' height='79'></a><br><a href="http://hardwear.io/" target="_blank"><img src='/assets/images/hardwear.jpg' width='300' height='79' ></a>
 </center>
 
