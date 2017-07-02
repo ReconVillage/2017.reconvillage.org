@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/announcements.png
     alt: "Announcements"
     title: "Announcements"
-    excerpt: "<h3 style='color:#53ADC8;'>6th June - FIrst Round of Selected Talks Announced<br><br>31 May - Shane McDougall will be our Keynote Speaker.<br><br>8th May - Call For Volunteers is OPEN.<br><br>8th May - CFP is OPEN till 1st July.<br><br>29 April - Recon Village will be @ DEFCON 25.</h3>"
+    excerpt: "<h3 style='color:#53ADC8;'>1st July - CFP Closed<br><br>6th June - FIrst Round of Selected Talks Announced<br><br>31 May - Shane McDougall will be our Keynote Speaker.<br><br>8th May - Call For Volunteers is OPEN.<br><br>8th May - CFP is OPEN till 1st July.<br><br>29 April - Recon Village will be @ DEFCON 25.</h3>"
     url: "/docs/license/"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
@@ -25,7 +25,7 @@ feature_row:
     excerpt: '<a class="twitter-timeline" data-height="500" href="https://twitter.com/ReconVillage">Tweets by ReconVillage</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
     url: "/docs/layouts/"
 intro:
-  - excerpt: '<b> Recon Village @DEFCON CFP is now OPEN </b> &nbsp; [More Info.](http://reconvillage.org/cfp/){: .btn .btn--twitter}'
+  - excerpt: '<b> Recon Village @DEFCON CFP is now CLOSED </b> &nbsp; [More Info.](http://reconvillage.org/cfp/){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}

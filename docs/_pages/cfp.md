@@ -15,32 +15,9 @@ layouts_gallery:
 last_modified_at: 2017-05-03T14:28:13-05:00
 ---
 
-Call for papers for Recon Village @ DEFCON 25 is now <b>OPEN</b>, and will be looking for top-notch presentations and workshops to fill in our schedule. 
+Call for papers for Recon Village @ DEFCON 25 is now <b>CLOSED</b>. We are now reviewing all the papers and notifications to all the selected speakers will be sent soon. 
 
-If you are passionate about OSINT and Reconnaissance, and want to talk about something you did or you know, in front of a more targeted audience, submit your proposals to Recon Village CFP. 
-We are seeking four kinds of submissions: talks, demos, lightning talks, and workshops with emphasis on following areas:
-
-- Open Source Intelligence
-- Web Mining and Intelligence
-- Metadata Analysis
-- Counter Intelligence
-- Social Network Analysis
-- Investigative Data Mining
-- Privacy and Legal Issues
-- Social Media Intelligence
-- Homeland Security
-- Reconnaissance / OSINT Automation
-
-[Submit]({{ "https://docs.google.com/forms/d/e/1FAIpQLSdbRMzcLm3RF-NyF-1CdKXxi9YC8NRcYJvbK8ZFD_l3c_AotA/viewform?usp=sf_link" }}){: .btn .btn--success .btn--large}
-
-## Speaker Benefits
-
-- A cool Speaker Badge
-- Exclusive Recon Village T-shirt. 
-- An awesome Speaker Coin (which you can show off to your peers ;))
-- Chance to present in front of a bunch of like-minded people.
-- Peer Recognition
-- Free Hugs 
+Thanks everyone who submitted. 
 
 
 ## Important Dates
@@ -52,10 +29,4 @@ We are seeking four kinds of submissions: talks, demos, lightning talks, and wor
 | Notification to Speakers | 5th July 2017|
 | Schedule Announcement | 10th July 2017|
 | Dooms Day | 28th - 30th July 2017|
-
-
-# Note: 
-> Please do not submit to Recon Village CFP if you are not already planning to attend DEF CON 25 as we are unable to provide any speaker assistance in terms of DEFCON Badges / travel / accommodation expenses. Hoteliers don't get us any discount on our name and we can't help you in sorting out your VISA queries either. If you are already attending DEFCON and would like to speak, please send in your proposal through the CFP form. 
-
-> As you will submit the CFP form, you should get a confirmation email confirming your submission. If you do not receive this email, it simply means we have not received your submission and you need to submit again.
 
