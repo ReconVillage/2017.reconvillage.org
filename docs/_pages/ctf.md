@@ -22,5 +22,7 @@ OSInt CTF is an online / offline 2-3 days Jeopardy Style Contest where we create
 
 | What?                                        | When?	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Recon Village CTF @ DefCon | 28th - 30th July 2017 |
-| Recon Village CTF @ c0c0n | TBA |
+| RV OSINT CTF Registration Opens | 15th July 2017 |
+| RV OSINT CTF Starts @ DefCon | 28th 2017 |
+| RV OSINT CTF Ends & Winners Announcement | 30th 2017 |
+| RV OSINT CTF @ c0c0n | TBA |
