@@ -24,6 +24,8 @@ main:
     url: /cfp/
   - title: "Talks"
     url: /talks/
+  - title: "Workshops"
+    url: /workshops/
   - title: "OSINT CTF"
     url: /ctf/ 
   - title: "Schedule"
