@@ -13,5 +13,5 @@ excerpt: "mm"
 
 # Speaker Profile
 
-[(Rhett Greenhagen)](https://www.linkedin.com/in/greenhagen/) has worked in the NetSec/IC for over a decade. He specializes in open source intelligence, cyber counter-intelligence, profiling, exploitation, malware analysis, and technical research and development. Career highlights include Primary Forensic Investigator for the DoD’s largest data center as well as senior technical positions for multiple defense contracting companies. Rhett is currently working for the Advanced Programs Group at McAfee.
+[Rhett Greenhagen](https://www.linkedin.com/in/greenhagen/) has worked in the NetSec/IC for over a decade. He specializes in open source intelligence, cyber counter-intelligence, profiling, exploitation, malware analysis, and technical research and development. Career highlights include Primary Forensic Investigator for the DoD’s largest data center as well as senior technical positions for multiple defense contracting companies. Rhett is currently working for the Advanced Programs Group at McAfee.
 
