@@ -22,7 +22,7 @@ foo:
 main:
   - title: "CFP"
     url: /cfp/
-  - title: "Selected Talks"
+  - title: "Talks"
     url: /talks/
   - title: "OSINT CTF"
     url: /ctf/ 
