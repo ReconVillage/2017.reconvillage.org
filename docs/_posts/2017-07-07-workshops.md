@@ -20,7 +20,7 @@ Depending on your position, this talk with either arm you with the right tools t
 <div markdown="0"><a href="/intro-to-osint-workshop/" class="btn btn--success">More Details..</a></div>
 
 
-### Attack Surface Discovery with Intrigue
+### Twitter Forensics
 by *[@cmlh](https://twitter.com/cmlh)*
 
 What's more fun than discovering vulnerable and attack-worthy systems on the internet? Come join us for live demos!
