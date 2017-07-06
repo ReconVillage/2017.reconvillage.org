@@ -16,4 +16,4 @@ Christian Heinrich [(@cmlh)](https://twitter.com/cmlh) has integrated Maltego wi
 
 Christian Heinrich has presented at the OWASP Conferences in Australia, Europe and USA and OWASP Chapters in the Netherlands, Singapore, UK, Thailand and Sydney and Melbourne in Australia, ToorCon (USA), Shmoocon (USA), BlackHat (Asia and USA), DEFCON, SecTor (Canada), CONFidence (Europe), Hack In The Box (Europe), SyScan (Singapore), B-Sides (Australia), RUXCON (Australia), and AusCERT (Australia).
 
-@cmlh has a Public Profile on LinkedIn at http://www.linkedin.com/in/ChristianHeinrich.
+@cmlh has a Public Profile on LinkedIn at [http://www.linkedin.com/in/ChristianHeinrich](http://www.linkedin.com/in/ChristianHeinrich).
