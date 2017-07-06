@@ -25,7 +25,7 @@ feature_row:
     excerpt: '<a class="twitter-timeline" data-height="500" href="https://twitter.com/ReconVillage">Tweets by ReconVillage</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
     url: "/docs/layouts/"
 intro:
-  - excerpt: '<b> Talks & Workshops Announced </b> &nbsp; [More Info.](http://reconvillage.github.io/reconvillage/talks/){: .btn .btn--twitter}'
+  - excerpt: '<b> Talks & Workshops Announced </b> &nbsp; [Talks](http://reconvillage.github.io/reconvillage/talks/){: .btn .btn--twitter}&nbsp; [Workshops](http://reconvillage.github.io/reconvillage/workshops/){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
