@@ -5,9 +5,7 @@ header:
 
 {% include toc title="List of Talks" icon="file-text" %}
 
-We are pleased to announce the *First Round* of selected talks for Recon Village. 
-
-Final round of talks will be announced by 10th of July. Stay tuned...
+We are pleased to announce the list of selected talks for Recon Village. 
 
 
 ### An Introduction to Graph Theory for OSINT
