@@ -39,6 +39,8 @@ I was able to create a proof of concept application that scrubs a recreation of 
 
 Extrapolate that out, over the 6.5 million records in my database and you get 2.86 million Ohio resident Facebook records.
 
+<div markdown="0"><a href="/building-google-for-criminal-enterprises/" class="btn btn--success">More Details..</a></div>
+
 
 ### Do Tinder Bots Dream of Electric Toys? How Tinder Bots are breaking hearts all over the world, and trashing Tinder’s reputation while they’re at it.
 by *[@inbarraz](https://twitter.com/inbarraz)*
