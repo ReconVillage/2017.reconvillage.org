@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/useful_links.png
     alt: "Useful Links"
     title: "Useful Links"
-    excerpt: "<h3><a href='/selected-talks/'> List of Selected Talks</a><br><br><a href='http://reconvillage.github.io/reconvillage/talks/'>List of Selected Talks</a><br><br><a href='http://reconvillage.github.io/reconvillage/workshops/'> Recon Village Call for Volunteer Form</a><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
+    excerpt: "<h3><a href='/selected-talks/'> List of Selected Talks</a><br><br><a href='http://reconvillage.github.io/reconvillage/talks/'>List of Selected Workshops</a><br><br><a href='http://reconvillage.github.io/reconvillage/workshops/'> Recon Village Call for Volunteer Form</a><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
     url: "/docs/configuration/"
   - image_path: /assets/images/announcements.png
     alt: "Announcements"
