@@ -27,7 +27,6 @@ feature_row:
 intro:
   - excerpt: '<b> Talks & Workshops Announced </b> &nbsp; [Talks](http://reconvillage.github.io/reconvillage/talks/){: .btn .btn--twitter}&nbsp; [Workshops](http://reconvillage.github.io/reconvillage/workshops/){: .btn .btn--twitter}'
 ---
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
