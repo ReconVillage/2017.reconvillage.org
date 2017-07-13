@@ -13,7 +13,7 @@ find burner phones in the mess, and hopefully learn some fun network analysis, m
 
 # Speaker Profile
 
-Christian Heinrich [(@jerkota)](https://twitter.com/jerkota) 
+Dakota Nelson [(@jerkota)](https://twitter.com/jerkota) 
 
 Short: BSLV, SOURCE Boston x2, SOURCE Seattle, other non-security presentations. 
 
