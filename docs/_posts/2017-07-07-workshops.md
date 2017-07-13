@@ -20,14 +20,15 @@ Depending on your position, this talk with either arm you with the right tools t
 <div markdown="0"><a href="/intro-to-osint-workshop/" class="btn btn--success">More Details..</a></div>
 
 
-### Twitter Forensics
-by *[@cmlh](https://twitter.com/cmlh)*
+### Burner Phone Challenge
+by *[@jerkota](https://twitter.com/jerkota)*
 
-What's more fun than discovering vulnerable and attack-worthy systems on the internet? Come join us for live demos!
+Once upon a time, I saw this tweet from Kenneth Lipp: https://twitter.com/kennethlipp/status/848566661384990722. In summary, the tweet is about an AT&T program available to law enforcement meant to make burner phones meaningless. Even if someone switches phones, if their pattern of behavior (both in terms of contacts and call locations) stays the same or similar, AT&T can determine that it's the same person simply using a new phone. 
 
-Intrigue is a powerful and extensible open source engine for discovering attack surface. It helps security researchers, penetration testers, bug bounty hunters, and defenders to discover assets and their vulnerabilities. During this session, we'll demo Intrigue and talk through architecture, with focus on recent areas of improvement such as meta-entities and discovery automation strategies.
+This seems like a great teaching opportunity! Attendees at this workshop will build the same analytics as AT&T does, using Python on some "phone metadata" created just for you to play with. You'll be able to
+find burner phones in the mess, and hopefully learn some fun network analysis, machine learning, and Python programming skills along the way!
 
-<div markdown="0"><a href="/twitter-forensics-workshop/" class="btn btn--success">More Details..</a></div>
+<div markdown="0"><a href="/burner-phone-challenge/" class="btn btn--success">More Details..</a></div>
 
 
 
