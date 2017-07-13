@@ -12,10 +12,18 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2017-05-03T14:28:13-05:00
+last_modified_at: 2017-07-1414:28:13-05:00
 ---
-### <center>Talks Schedule - Palermo </center>
 
+Hello there. We have now finalized the time slots with our speakers and here is the compiled list of talks/workshops with respective time slots and speaker details. Hell Yeah. :D 
+
+Registration/Info desk will be available most of the time, speciifically 1 hour before the village starts. Our village runs for following timings:
+
+- 28th July: 1400 - 1835 (Teardown by 1900)
+- 29th July: 1000 - 1800 (Teardown by 1830)
+- 30th July: 1000 - 1245 
+
+### <center>Talks Schedule - in Palermo </center>
 
 
 | Date, Time <br> (Las Vegas Time)                                        | Title	                    |
@@ -38,17 +46,33 @@ last_modified_at: 2017-05-03T14:28:13-05:00
 | 30th July (Sunday), 1125 - 1155 | [Do Tinder Bots Dream of Electric Toys? How Tinder Bots are breaking hearts all over the world, and trashing Tinder’s reputation  while they’re at it.](http://reconvillage.org/do-tinder-bots-dream-of-electric-toys/) *by Inbar Raz*|
 
 
-### <center>Workshops Schedule - Palermo </center>
+### <center>Workshops Schedule - in Palermo </center>
 
 | Date, Time (Las Vegas Time)                       | Title	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | 29th July (Saturday), 1000 - 1200 | [Burner Phone Challenge](http://reconvillage.org/burner-phone-challenge/) *by Dakota Nelson*| 
 | 29th July (Saturday), 1600 - 1800 | [Intro to OSINT: Zero on the way to Hero](http://reconvillage.org/intro-to-osint-workshop/) *by Joe Gray*|
 
-### <center>CTF Schedule - Sienna</center>
+### <center>CTF Schedule - in Sienna</center>
 
 | Date, Time (Las Vegas Time)                       | Title	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | 28th July (Friday), 1420 | CTF Start | 
 | 30th July (Sunday), 1200 | CTF Stop |
 | 30th July (Sunday), 1200 - 1230  | Winner Announcement / Prize Distribution|
+
+### <center>Recon Village Timeline</center>
+
+| What?                                        | When?	                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+| @ c0c0n | 18th - 19th August 2017|
+| @ DEFCON 25 | 28th - 30th July 2017|
+| OSINT CTF Reg Open | 15th July 2017 |
+| @ DEFCON 25 <b>CFP</b> Close | 1st July 2017 |
+| @ DEFCON 25 Call for Volunteers OPEN | 8th May 2017 |
+| @ DEFCON 25 <b>CFP</b> OPEN | 8th May 2017 |
+
+
+
+
+
