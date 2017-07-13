@@ -42,6 +42,6 @@ last_modified_at: 2017-05-03T14:28:13-05:00
 
 | Date, Time (Las Vegas Time)                       | Title	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| 29th July (Saturday), 1000 - 1200 | [Burner Phone Challenge]() *by Dakota Nelson*| 
-| 29th July (Saturday), 1600 - 1800 | [Intro to OSINT: Zero on the way to Hero]() *by Joe Gray*|
+| 29th July (Saturday), 1000 - 1200 | [Burner Phone Challenge](http://reconvillage.org/burner-phone-challenge/) *by Dakota Nelson*| 
+| 29th July (Saturday), 1600 - 1800 | [Intro to OSINT: Zero on the way to Hero](http://reconvillage.org/intro-to-osint-workshop/) *by Joe Gray*|
 
