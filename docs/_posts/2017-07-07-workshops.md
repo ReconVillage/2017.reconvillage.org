@@ -5,7 +5,7 @@ header:
 
 {% include toc title="List of Talks" icon="file-text" %}
 
-We are pleased to announce the list of selected workshops for Recon Village. 
+We are pleased to announce we will be hosting hands on workshops on 29th July (morning and evening). These workshops will be hands-on in nature and will require you to bring in a Laptop with you where you can practise (if you want to). These workshops are completely free.
 
 
 ### Intro to OSINT: Zero on the way to Hero
