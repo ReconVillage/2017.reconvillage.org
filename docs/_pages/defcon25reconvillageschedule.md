@@ -31,7 +31,7 @@ Registration/Info desk will open 1 hour before the village starts. Our village r
 | 28th July (Friday), 1420 - 1455 | Keynote <br> [It’s Going To Get Worse Before It Gets Better - The Future of Recon Data Mining](http://reconvillage.org/keynote/) *by Shane McDougal*|
 | 28th July (Friday), 1455 - 1540 | [An Introduction to Graph Theory for OSINT](http://reconvillage.org/an-introduction-to-graph-theory-for-osint/) *by Andrew Hay* |
 | 28th July (Friday), 1540 - 1625 | [Into the Bird’s Nest: A Comprehensive Look at Twitter as a Research Tool](http://reconvillage.org/comprehensive-look-at-twitter-as-a-research-tool/) *by Tracy Z. Maleeff*|
-| 28th July (Friday), 1625 - 1635 | Sponsored Talk <br> [Up close and personal - Keeping an eye on mobile applications]() *by Mikhail Sosonkin*|
+| 28th July (Friday), 1625 - 1645 | Sponsored Talk <br> [Up close and personal - Keeping an eye on mobile applications]() *by Mikhail Sosonkin*|
 | 28th July (Friday), 1700 - 1725 | [Using phonetic algorithms to increase your search space and detect misspellings.](http://reconvillage.org/using-phenotic-algorithms-to-increase-your-search/) *by Alex Kahan*|
 | 28th July (Friday), 1725 - 1800 | [Attack Surface Discovery with Intrigue](http://reconvillage.org/attack-surface-discovery-with-intrigue/) *by Jcran*|
 | 28th July (Friday), 1800 - 1835 | [Skip tracing for fun and profit](http://reconvillage.org/skip-tracing-for-fun-and-profit/) *by Rhett Greenhagen*|
