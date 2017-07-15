@@ -10,9 +10,7 @@ excerpt: "mm"
 
 # Speaker Profile
 
-http://www.demisto.com 
-http://www.trustwave.com
-https://saas.hpe.com/en-us/software/siem-security-information-event-management  
-https://www.linkedin.com/in/tyler/ 
+[http://www.demisto.com](http://www.demisto.com)
+[https://www.linkedin.com/in/tyler/](https://www.linkedin.com/in/tyler/ )
 
 14+ Years or some **** in Cyber (Previously known as Information Security).I have #NoCerts yet but seems like thats whats trendy these days. Been going to DefCon since before the Rio days where I first learned about LockPicking and just wished I could give some #AwkwardHugs"

@@ -5,9 +5,7 @@ excerpt: "mm"
 ---
 # Abstract
 
-> In this talk I will give a brief introduction to phonetic algorithms and how they can apply to gathering recon and searching through social media data. I will then demonstrate applying these techniques to a US Census dataset, and generate a searchable dataset capable of suggesting alternative spellings and pronunciations of names.
-
-
+> In this talk I will give a brief introduction to phonetic algorithms and how they can apply to searching through social media data and other domains. I will then demonstrate applying these techniques to a US Census dataset, and generate a searchable dataset capable of suggesting alternative spellings and pronunciations of names. I will finish by talking about how we can detect potentially malicious domains using these techniques.
 
 # Speaker Profile
 

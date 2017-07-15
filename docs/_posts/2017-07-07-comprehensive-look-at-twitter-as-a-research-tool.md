@@ -12,6 +12,6 @@ excerpt: "mm"
 
 # Speaker Profile
 
-Tracy Z. Maleeff [(@InfoSecSherpa)](https://twitter.com/abhijeth) left behind the glamorous world of law firm librarianship to seek out the white-hot spotlight of the information security industry. She started an independent research consulting business in 2016 called Sherpa Intelligence, providing competitive intelligence, news monitoring, and social media management services. She earned a Master of Library and Information Science degree from the University of Pittsburgh. 
+Tracy Z. Maleeff [(@InfoSecSherpa)](https://twitter.com/InfoSecSherpa) left behind the glamorous world of law firm librarianship to seek out the white-hot spotlight of the information security industry. She is a newly-minted Cyber Analyst at GSK (GlaxoSmithKline.) Before that, Tracy started an independent research consulting business in 2016 called Sherpa Intelligence, and provided competitive intelligence, news monitoring, and social media management services. She earned a Master of Library and Information Science degree from the University of Pittsburgh.
 
-Tracy was recognized with the Wolters Kluwer Law & Business Innovations in Law Librarianship Award in 2016 and the Dow Jones Innovate Award in 2014. Tracy is your guide up a mountain of information! Her Digital Portfolio can be viewed online here: https://sherpaintel.wordpress.com/portfolio/ 
+Tracy was recognized with the Wolters Kluwer Law & Business Innovations in Law Librarianship Award in 2016 and the Dow Jones Innovate Award in 2014. Tracy is your guide up a mountain of information! Her Digital Portfolio can be viewed online here: [https://sherpaintel.wordpress](https://sherpaintel.wordpress).com/portfolio/
