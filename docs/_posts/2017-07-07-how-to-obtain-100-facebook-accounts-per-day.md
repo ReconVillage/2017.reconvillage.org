@@ -14,4 +14,4 @@ excerpt: "mm"
 
 Guillermo [(@bym0m0)](https://twitter.com/bym0m0) is a Cyber Security Penetration Testing Consultant at Deloitte Mexico; he has worked for many Financial Institutions and Public sector for the last 5 years. 
 
-Yael [(@bym0m0)](https://twitter.com/zkvL7) is a Cyber Security Snr. Consultant at Deloitte Mexico and has been working as a Security Specialist in different organizations for the last 4 years. He is really into programming and his laziness has lead into writting some code to automatize certain things at work; nmap and nessus reports for instance [https://github.com/zkvL7](https://github.com/zkvL7), and some other work not ready to see the light. 
+Yael [(@zkvL7)](https://twitter.com/zkvL7) is a Cyber Security Snr. Consultant at Deloitte Mexico and has been working as a Security Specialist in different organizations for the last 4 years. He is really into programming and his laziness has lead into writting some code to automatize certain things at work; nmap and nessus reports for instance [https://github.com/zkvL7](https://github.com/zkvL7), and some other work not ready to see the light. 
