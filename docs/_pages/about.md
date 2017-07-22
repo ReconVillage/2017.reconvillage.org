@@ -35,11 +35,12 @@ Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)<br>
 Akash Mahajan [(@makash)](https://twitter.com/makash)<br>
 Justin Sietz [(@jms_dot_py)](https://twitter.com/jms_dot_py)
 
+
 ### Volunteers
 Nutan Kumar Panda[(@NutanKumarPanda)](https://twitter.com/NutanKumarPanda)<br>
-Jayesh Singh Chauhan[(@jayeshsch)](https://twitter.com/jayeshsch)<br>
 Antriksh Shah[(@antriksh_s)](https://twitter.com/antriksh_s)<br>
-Kunal Aggarwal [(@KunalAggarwal92)](https://twitter.com/KunalAggarwal92)
+Kunal Aggarwal [(@KunalAggarwal92)](https://twitter.com/KunalAggarwal92)<br>
+David Westcott[(@beast_fighter)](https://twitter.com/beast_fighter)
 
 
 ### Contact Us:
