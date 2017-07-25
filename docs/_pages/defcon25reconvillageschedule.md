@@ -50,8 +50,8 @@ Registration/Info desk will open 1 hour before the village starts. Our village r
 
 | Date, Time (Las Vegas Time)                       | Title	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| 29th July (Saturday), 1000 - 1200 | [Burner Phone Challenge](http://reconvillage.org/burner-phone-challenge/) *by Dakota Nelson*| 
-| 29th July (Saturday), 1600 - 1800 | [Intro to OSINT: Zero on the way to Hero](http://reconvillage.org/intro-to-osint-workshop/) *by Joe Gray*|
+| 29th July (Saturday), 1000 - 1200 | [Intro to OSINT: Zero on the way to Hero](http://reconvillage.org/intro-to-osint-workshop/) *by Joe Gray*| 
+| 29th July (Saturday), 1600 - 1800 | [Burner Phone Challenge](http://reconvillage.org/burner-phone-challenge/) *by Dakota Nelson*|
 
 ### <center>CTF Schedule - in Sienna</center>
 
