@@ -31,48 +31,53 @@ Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)
 Kunal Aggarwal [(@KunalAggarwal92)](https://twitter.com/KunalAggarwal92)<br>
 
 
-### Crew Members (DefCon25)
+### Volunteers (c0c0n 2017)
+Jayesh Singh Chuahan [(@jayeshsch)](https://twitter.com/jayeshsch)<br>
+Chandrapal [(@bnchandrapal)](https://twitter.com/bnchandrapal)<br>
+
+
+### Crew Members (DEFCON 25)
 Owen Shearing [(@rebootuser)](https://twitter.com/rebootuser)<br>
 Will Hunt [(@stealthsploit)](https://twitter.com/stealthsploit)<br>
-Nutan Kumar Panda[(@NutanKumarPanda)](https://twitter.com/NutanKumarPanda)<br>
+Nutan Kumar Panda [(@NutanKumarPanda)](https://twitter.com/NutanKumarPanda)<br>
 Antriksh Shah[(@antriksh_s)](https://twitter.com/antriksh_s)<br>
-Pankit Dubal[(@p0wn_YamraJ)](https://twitter.com/p0wn_YamraJ)<br>
-Micah Hoffman[(@WebBreacher)](https://twitter.com/WebBreacher)<br>
-Chris silvers[(@Cgsilvers)](https://twitter.com/Cgsilvers)<br>
+Pankit Dubal [(@p0wn_YamraJ)](https://twitter.com/p0wn_YamraJ)<br>
+Micah Hoffman [(@WebBreacher)](https://twitter.com/WebBreacher)<br>
+Chris silvers [(@Cgsilvers)](https://twitter.com/Cgsilvers)<br>
 Tyler [(@physchosis)](https://twitter.com/physchosis)<br>
-Mandi Kay[(@2ali2kat)](https://twitter.com/2ali2kat)<br>
-Rich Macys[(@richmacys)](https://twitter.com/richmacys)<br>
+Mandi Kay [(@2ali2kat)](https://twitter.com/2ali2kat)<br>
+Rich Macys [(@richmacys)](https://twitter.com/richmacys)<br>
 
 
-### CFP Review Panel (Defcon25)
+### CFP Review Panel (DEFCON 25)
 Justin Nordine [(@jnordine)](https://twitter.com/jnordine)<br>
 Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)<br>
 Akash Mahajan [(@makash)](https://twitter.com/makash)<br>
 Justin Sietz [(@jms_dot_py)](https://twitter.com/jms_dot_py)
 
 
-### Volunteers (DefCon25)
-David Westcott[(@beast_fighter)](https://twitter.com/beast_fighter)
-Brian Anderson[(@brianandersonio)](https://twitter.com/brianandersonio)<br>
-Apoorv Munshi[(@EthicalEvil)](https://twitter.com/EthicalEvil)<br>
-Miguel Guirao[(@miguelguirao)](https://twitter.com/miguelguirao)<br>
-Kaitlin Jones[(@kedrulz)](https://twitter.com/kedrulz)<br>
-Andrew Dowling[(@DeadCell10)](https://twitter.com/DeadCell10)<br>
-Mark Mark[(@ridgeback111)](https://twitter.com/ridgeback111)<br>
-Tigran Terpandjian[(@th3CyF0x)](https://twitter.com/th3CyF0x)<br>
-RemoKousins[(@RemoKousins)](https://twitter.com/RemoKousins)<br>
-Lawrence Mendez[(@beats1unlimited)](https://twitter.com/beats1unlimited)<br>
-David Quan[(@shakaquan)](https://twitter.com/shakaquan)<br>
-Brad Swanson[(@d1g1t4l_t3mpl4r)](https://twitter.com/d1g1t4l_t3mpl4r)<br>
-Alex D[(@lightstar773)](https://twitter.com/lightstar773)<br>
-Dave Bullock[(@busecdo)](https://twitter.com/busecdo)<br>
-Teo[(@ODD_PoinT)](https://twitter.com/ODD_PoinT)<br>
-Shay Rozen[(@bitb1itz)](https://twitter.com/bitb1itz)<br>
-Jerry Shi[(@Altezza02)](https://twitter.com/Altezza02)<br>
-Abhinav Sejpal[(@abhinav_sejpal)](https://twitter.com/abhinav_sejpal)<br>
-Marcus Hogan[(@DarkAnt1cs)](https://twitter.com/DarkAnt1cs)<br>
-Jon Selman[(@JonSelman)](https://twitter.com/JonSelman)<br>
-Daniel McIntosh[(@mctoshcrusher)](https://twitter.com/mctoshcrusher)<br>
+### Volunteers (DEFCON 25)
+David Westcott [(@beast_fighter)](https://twitter.com/beast_fighter)
+Brian Anderson [(@brianandersonio)](https://twitter.com/brianandersonio)<br>
+Apoorv Munshi [(@EthicalEvil)](https://twitter.com/EthicalEvil)<br>
+Miguel Guirao [(@miguelguirao)](https://twitter.com/miguelguirao)<br>
+Kaitlin Jones [(@kedrulz)](https://twitter.com/kedrulz)<br>
+Andrew Dowling [(@DeadCell10)](https://twitter.com/DeadCell10)<br>
+Mark Mark [(@ridgeback111)](https://twitter.com/ridgeback111)<br>
+Tigran Terpandjian [(@th3CyF0x)](https://twitter.com/th3CyF0x)<br>
+RemoKousins [(@RemoKousins)](https://twitter.com/RemoKousins)<br>
+Lawrence Mendez [(@beats1unlimited)](https://twitter.com/beats1unlimited)<br>
+David Quan [(@shakaquan)](https://twitter.com/shakaquan)<br>
+Brad Swanson [(@d1g1t4l_t3mpl4r)](https://twitter.com/d1g1t4l_t3mpl4r)<br>
+Alex D [(@lightstar773)](https://twitter.com/lightstar773)<br>
+Dave Bullock [(@busecdo)](https://twitter.com/busecdo)<br>
+Teo [(@ODD_PoinT)](https://twitter.com/ODD_PoinT)<br>
+Shay Rozen [(@bitb1itz)](https://twitter.com/bitb1itz)<br>
+Jerry Shi [(@Altezza02)](https://twitter.com/Altezza02)<br>
+Abhinav Sejpal [(@abhinav_sejpal)](https://twitter.com/abhinav_sejpal)<br>
+Marcus Hogan [(@DarkAnt1cs)](https://twitter.com/DarkAnt1cs)<br>
+Jon Selman [(@JonSelman)](https://twitter.com/JonSelman)<br>
+Daniel McIntosh [(@mctoshcrusher)](https://twitter.com/mctoshcrusher)<br>
 
 
 ### Contact Us:
