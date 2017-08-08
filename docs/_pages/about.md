@@ -21,7 +21,7 @@ Recon Village is an Open Space with Talks, Live Demos, Workshops, Discussions, C
 We conduct this event in hacker conferences and our formats includes Comprehensive talks, Lighning Talks, Live Demos, Hands on Workshops, Online / Offline CTF event, etc. 
 
 
-Core Team
+### Core Team
 Shubham Mittal [(@upgoingstar)](https://twitter.com/upgoingstar)<br>
 Sudhanshu Chauhan [(@sudhanshu_c)](https://twitter.com/sudhanshu_c)<br>
 Neelu Tripathy [(@neelutripathy)](https://twitter.com/neelutripathy)<br>
