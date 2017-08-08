@@ -27,8 +27,8 @@ Sudhanshu Chauhan [(@sudhanshu_c)](https://twitter.com/sudhanshu_c)<br>
 Neelu Tripathy [(@neelutripathy)](https://twitter.com/neelutripathy)<br>
 Sandeep Singh [(@sandy1sm)](https://twitter.com/sandy1sm)<br>
 Anant Srivastava [(@anantshri)](https://twitter.com/anantshri)<br>
-Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)
-Kunal Aggarwal [(@KunalAggarwal92)](https://twitter.com/KunalAggarwal92)<br>
+Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)<br>
+Kunal Aggarwal [(@KunalAggarwal92)](https://twitter.com/KunalAggarwal92)
 
 
 ### Volunteers (c0c0n 2017)
@@ -46,7 +46,7 @@ Micah Hoffman [(@WebBreacher)](https://twitter.com/WebBreacher)<br>
 Chris silvers [(@Cgsilvers)](https://twitter.com/Cgsilvers)<br>
 Tyler [(@physchosis)](https://twitter.com/physchosis)<br>
 Mandi Kay [(@2ali2kat)](https://twitter.com/2ali2kat)<br>
-Rich Macys [(@richmacys)](https://twitter.com/richmacys)<br>
+Rich Macys [(@richmacys)](https://twitter.com/richmacys)
 
 
 ### CFP Review Panel (DEFCON 25)
@@ -77,7 +77,7 @@ Jerry Shi [(@Altezza02)](https://twitter.com/Altezza02)<br>
 Abhinav Sejpal [(@abhinav_sejpal)](https://twitter.com/abhinav_sejpal)<br>
 Marcus Hogan [(@DarkAnt1cs)](https://twitter.com/DarkAnt1cs)<br>
 Jon Selman [(@JonSelman)](https://twitter.com/JonSelman)<br>
-Daniel McIntosh [(@mctoshcrusher)](https://twitter.com/mctoshcrusher)<br>
+Daniel McIntosh [(@mctoshcrusher)](https://twitter.com/mctoshcrusher)
 
 
 ### Contact Us:
