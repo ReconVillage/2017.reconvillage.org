@@ -3,7 +3,6 @@ title: "Into the Bird’s Nest: A Comprehensive Look at Twitter as a Research To
 author: upgoingstar
 excerpt: "mm"
 ---
-## Slide Deck ([Direct Link](https://www.slideshare.net/reconvillage/rv-defcon25-into-the-birds-nest-a-comprehensive-look-at-twitter-as-a-research-tool-tracy-z-maleeff))
 <center>
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/pGPRH5O4RQFcN8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 </center>

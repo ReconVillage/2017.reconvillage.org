@@ -4,7 +4,6 @@ title: "Total Recoll: Conducting Investigations without Missing a Thing
 author: upgoingstar
 excerpt: "mm"
 ---
-## Slide Deck ([Direct Link](https://www.slideshare.net/reconvillage/rv-defcon25-total-recoll-conducting-investigations-without-missing-a-thing-dakota-nelson))
 <center>
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/45QwIY25rdM78b" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 </center>

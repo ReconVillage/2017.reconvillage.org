@@ -3,8 +3,6 @@ title: "How to obtain 100 Facebooks accounts per day through internet searches"
 author: upgoingstar
 excerpt: "mm"
 ---
-
-## Slide Deck ([Direct Link](https://www.slideshare.net/reconvillage/rv-defcon25-how-to-obtain-100-facebook-accounts-per-day-through-internet-searches-guillermo-buendia))
 <center>
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/7sv05YrrjbudMA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 </center>
