@@ -16,3 +16,8 @@ excerpt: "mm"
 I've previously spoken at BSides Las Vegas, SOURCE Boston (x2), SOURCE Seattle, and some other smaller gatherings. 
 
 You can find full details at [dakotanelson.com](dakotanelson.com) and [strikersecurity.com](strikersecurity.com)
+
+## Slide Deck ([Direct Link](https://www.slideshare.net/reconvillage/rv-defcon25-total-recoll-conducting-investigations-without-missing-a-thing-dakota-nelson))
+<center>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/45QwIY25rdM78b" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/reconvillage/rv-defcon25-total-recoll-conducting-investigations-without-missing-a-thing-dakota-nelson" title="Rv defcon25 total recoll conducting investigations without missing a thing - dakota nelson" target="_blank">Rv defcon25 total recoll conducting investigations without missing a thing - dakota nelson</a> </strong> from <strong><a href="https://www.slideshare.net/reconvillage" target="_blank">reconvillage</a></strong> </div>
+</center>
