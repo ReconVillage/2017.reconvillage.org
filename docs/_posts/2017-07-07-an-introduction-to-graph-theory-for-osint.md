@@ -3,8 +3,9 @@ title: "An Introduction to Graph Theory for OSINT"
 author: upgoingstar
 excerpt: "mm"
 ---
-# Abstract
+<script async class="speakerdeck-embed" data-id="975ee67cc98540a48c92eae69aede35e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+# Abstract
 
 > This session aims to gently introduce graph theory and the applied use of graphs for people who, like the speaker, consider themselves lacking the often perceived advanced math, science, and computer programming knowledge needed to harness their power.
 
