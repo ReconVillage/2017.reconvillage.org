@@ -3,6 +3,9 @@ title: "OSINT Tactics on Source Code & Developers"
 author: upgoingstar
 excerpt: "mm"
 ---
+<center>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/gX2OKGiz6D2Nxp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
+
 # Abstract
 
 > This practical talk is about using OSINT techniques and tools to obtain intelligence from source code. By analyzing the source code, we will profile developers in social networks to see what social networks they use, what they are saying, who they follow, what they like and much more data about them.  

@@ -3,6 +3,9 @@ title: "FERPA: Only Your Grades Are Safe; OSINT In Higher Education"
 author: upgoingstar
 excerpt: "mm"
 ---
+<center>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/nUiV5WqgnLzmTk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </center>
+
 # Abstract
 
 > Institutions of higher education are supposed to be somewhere that students go, earn a degree, and leave, all while their data is safe.  Or is it?  In this talk, I discuss the gaping security holes left by FERPA (Family Educational Rights and Privacy Act (20 U.S.C. § 1232g; 34 CFR Part 99) with regard to student data.  Almost all student data, with the exception of grades and select demographics picked by each institution, are commonly listed as directory information that is available to anyone who asks.  Add to this most institutions of higher education commonly practice automatic “opt-in” for Directory Information and require students to specifically request that their information be withheld.  This leads to an OSINT opportunity ripe for abuse.  
