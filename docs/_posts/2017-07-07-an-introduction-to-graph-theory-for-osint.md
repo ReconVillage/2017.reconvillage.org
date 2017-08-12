@@ -3,7 +3,8 @@ title: "An Introduction to Graph Theory for OSINT"
 author: upgoingstar
 excerpt: "mm"
 ---
-<script async class="speakerdeck-embed" data-id="975ee67cc98540a48c92eae69aede35e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<center>
+<script async class="speakerdeck-embed" data-id="975ee67cc98540a48c92eae69aede35e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></center>
 
 # Abstract
 
