@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2017-07-1414:28:13-05:00
+last_modified_at: 2017-05-03T14:28:13-05:00
 ---
 
 We have now finalized the time slots with our speakers and here is the compiled list of talks/workshops with respective time slots and speaker details. Hell Yeah. :D 
