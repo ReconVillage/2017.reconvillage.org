@@ -9,6 +9,12 @@ excerpt: "mm"
 
 > While you may know how to write scripts and scrape data from Twitter, this session will focus on the GUI which can retrieve much older data. This session is not how to Tweet better, get more likes, or even how to get verified. This is all about searching for and extracting information from Twitter and its associated sites. You will come away from this session with a better understanding of how to use Twitter as a research tool. 
 
+## Slide Deck ([Direct Link](https://www.slideshare.net/reconvillage/rv-defcon25-into-the-birds-nest-a-comprehensive-look-at-twitter-as-a-research-tool-tracy-z-maleeff))
+<center>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/pGPRH5O4RQFcN8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</center>
+<br>
+
 
 # Speaker Profile
 
