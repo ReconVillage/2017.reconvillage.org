@@ -3,6 +3,9 @@ title: "Recon and Bug Bounties - What a great love story!"
 author: upgoingstar
 excerpt: "mm"
 ---
+<center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pcc9Rn4yZxTLhw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AbhijethDugginapeddi/recon-and-bug-bounties-what-a-great-love-story" title="Recon and Bug Bounties - What a great love story!" target="_blank">Recon and Bug Bounties - What a great love story!</a> </strong> from <strong><a href="https://www.slideshare.net/AbhijethDugginapeddi" target="_blank">Abhijeth D</a></strong> </div>
+</center>
 # Abstract
 
 > Recon is an important phase in Penetration Testing. But wait,not everyone does that because everyone’s busy filling forms with values. Effective recon can often give you access to assets/boxes that are less commonly found by regular penetration testers. Internet is one of the best ways to find such hosts/assets. There are a bunch of tools available on the internet which can help researchers to get access to such boxes. Is reverse-IP really useful? Is dnsdumpster the only site that can give list of sub-domains? What if I told you there are many different ways which combined together can give you effective results. What if I told you I have got access to many dev/test boxes which should not have been public facing. 
