@@ -3,17 +3,17 @@ title: "How to obtain 100 Facebooks accounts per day through internet searches"
 author: upgoingstar
 excerpt: "mm"
 ---
-# Abstract
-
-> Back in 2016, it was very new the way how the Facebook mobile application implements content through ""Instant articles"". A user can view content from third parties directly in the Facebook platform without requiring to open the Browser, for instance.  This content can also be shared, saved, opened in browser and so on.
-
-> In this talk, we will share how there Instant articles, and the way they were shared, lead us to the possibility to access Facebook accounts and how through internet searches this became a huge problem! We'll discuss how we identify the issue and how it was tested, reported, fixed, rewarded and also we talk about a new vector attack for further research.
 
 ## Slide Deck ([Direct Link](https://www.slideshare.net/reconvillage/rv-defcon25-how-to-obtain-100-facebook-accounts-per-day-through-internet-searches-guillermo-buendia))
 <center>
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/7sv05YrrjbudMA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 </center>
 <br>
+# Abstract
+
+> Back in 2016, it was very new the way how the Facebook mobile application implements content through ""Instant articles"". A user can view content from third parties directly in the Facebook platform without requiring to open the Browser, for instance.  This content can also be shared, saved, opened in browser and so on.
+
+> In this talk, we will share how there Instant articles, and the way they were shared, lead us to the possibility to access Facebook accounts and how through internet searches this became a huge problem! We'll discuss how we identify the issue and how it was tested, reported, fixed, rewarded and also we talk about a new vector attack for further research.
 
 # Speaker Profile
 
