@@ -22,14 +22,10 @@ foo:
 main:
   - title: "CFP"
     url: /cfp/
-  - title: "Talks"
-    url: /talks/
-  - title: "Workshops"
-    url: /workshops/
   - title: "OSINT CTF"
     url: /ctf/ 
   - title: "Schedule"
-    url: /talks-schedule/
+    url: /schedule/
   - title: "Sponsors"
     url: /sponsors/ 
   - title: "About Us"

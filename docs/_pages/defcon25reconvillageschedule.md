@@ -17,7 +17,7 @@ last_modified_at: 2017-05-03T14:28:13-05:00
 
 We have now finalized the time slots with our speakers and here is the compiled list of talks/workshops with respective time slots and speaker details. Hell Yeah. :D 
 
-Registration/Info desk will open 1 hour before the village starts. Our village runs for following timings:
+Registration/Info desk will open one hour before the village starts. Our village runs for following timings:
 
 - 28th July: 1400 - 1835 (Teardown by 1900)
 - 29th July: 1000 - 1800 (Teardown by 1830)

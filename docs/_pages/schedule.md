@@ -1,6 +1,6 @@
 ---
 permalink: /schedule/
-title: "2017 - 18 Recon Village Schedule"
+title: "2018 - 19 Recon Village Schedule"
 excerpt: "Upcoming Event Schedule"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -12,17 +12,29 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2017-05-03T14:28:13-05:00
+last_modified_at: 2018-03-07T14:28:13-05:00
 ---
-#### <center>Village / CTF / Contest Appearances</center>
+
+This is the time of year when we are super excited about DEF CON, isn't it? We have already started doing a lot of preperations and will be present at both China as well as Vegas. 
+
+If you are excited too, what are you waiting for? Go get started with your preparations.  Here is our schedule for this year so you can plan accordingly: 
+
+#### <center>Recon Village @ DEF CON China</center>
 
 | What?                                        | When?	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Recon Village @ DEFCON 25 <b>CFP</b> OPEN | 8th May 2017 |
-| Recon Village @ DEFCON 25 Call for Volunteers OPEN | 8th May 2017 |
-| Recon Village @ DEFCON 25 <b>CFP</b> Close | 1st July 2017 |
-| Recon Village @ DEFCON 25 | 28th - 30th July 2017|
-| Recon Village @ c0c0n | 18th - 19th August 2017|
+| Call For Papers/Tools/Workshops/Demos OPEN | 7th March 2018 |
+| Call for Volunteers OPEN | 2nd April 2018 |
+| Call For Papers/Tools/Workshops/Demos CLOSE | 5th April 2018 |
+| Recon Village @ DEF CON China | 11th - 13th May 2018 |
 
 
+#### <center>Recon Village @ DEF CON 26, USA (Las Vegas)</center>
 
+| What?                                        | When?	                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+| Call For Papers/Tools/Workshops/Demos OPEN | 6th April 2018 |
+| 1st Round CFP CLOSE | 15th May 2018 |
+| Call for Volunteers OPEN | 15th April 2018 |
+| Call For Papers/Tools/Workshops/Demos CLOSE | 1st July 2018 |
+| Recon Village @ DEF CON 26 | 10th - 12th May 2018 |
