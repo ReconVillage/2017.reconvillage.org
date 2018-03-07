@@ -25,7 +25,7 @@ feature_row:
     excerpt: '<a class="twitter-timeline" data-height="500" href="https://twitter.com/ReconVillage">Tweets by ReconVillage</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>'
     url: "/docs/layouts/"
 intro:
-  - excerpt: '<b>Call for Papers/Tools/Workshops/Demos are OPEN <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTLhkfmJ2yaRucR4iXoYTenBLtCIElg9V9nRPbqcaiLTdkzA/viewform?usp=sf_link" class="btn btn--success" size="10 ">SUBMIT</a></b>'
+  - excerpt: '<b>Call for Papers/Tools/Workshops/Demos are OPEN <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTLhkfmJ2yaRucR4iXoYTenBLtCIElg9V9nRPbqcaiLTdkzA/viewform?usp=sf_link" class="btn btn--success" size="10 ">SUBMIT NOW</a></b>'
 ---
 {% include feature_row id="intro" type="center" %}
 
