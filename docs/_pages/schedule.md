@@ -34,7 +34,7 @@ If you are excited too, what are you waiting for? Go get started with your prepa
 | What?                                        | When?	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Call For Papers/Tools/Workshops/Demos OPEN | 6th April 2018 |
-| 1st Round CFP CLOSE | 15th May 2018 |
+| 1st Round of Speaker Notification | 15th May 2018 |
 | Call for Volunteers OPEN | 15th April 2018 |
 | Call For Papers/Tools/Workshops/Demos CLOSE | 1st July 2018 |
 | Recon Village @ DEF CON 26 | 10th - 12th May 2018 |
