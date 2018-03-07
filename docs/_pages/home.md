@@ -12,12 +12,12 @@ feature_row:
   - image_path: /assets/images/useful_links.png
     alt: "Useful Links"
     title: "Useful Links"
-    excerpt: "<h3><a href='/selected-talks/'> List of Selected Talks</a><br><br><a href='http://reconvillage.github.io/reconvillage/talks/'>List of Selected Workshops</a><br><br><a href='http://reconvillage.github.io/reconvillage/workshops/'> Recon Village Call for Volunteer Form</a><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSclSuSmOcjtqdtRXOkwGCc9fWvn4YMnpftxdIBov9gVVI-nYQ/viewform?usp=sf_link'> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
+    excerpt: "<h3><a href='https://docs.google.com/forms/d/e/1FAIpQLSfTLhkfmJ2yaRucR4iXoYTenBLtCIElg9V9nRPbqcaiLTdkzA/viewform'>Submit to CFPa><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSe8znlu6s4uc91UzWr1fcAvdyP17W5n84fhElOcIjXhQd3W3Q/viewform?usp=sf_link'>Get Involved/Sponsor Us</a> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
     url: "/docs/configuration/"
   - image_path: /assets/images/announcements.png
     alt: "Announcements"
     title: "Announcements"
-    excerpt: "<h3 style='color:#53ADC8;'>1st July - CFP Closed<br><br>6th June - FIrst Round of Selected Talks Announced<br><br>31 May - Shane McDougall will be our Keynote Speaker.<br><br>8th May - Call For Volunteers is OPEN.<br><br>8th May - CFP is OPEN till 1st July.<br><br>29 April - Recon Village will be @ DEFCON 25.</h3>"
+    excerpt: "<h3 style='color:#53ADC8;'>7th March - CFP OPEN<br><br>1st March - Recon Village will be at DEFCON China<br><br></h3>"
     url: "/docs/license/"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"

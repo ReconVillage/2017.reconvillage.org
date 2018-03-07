@@ -35,7 +35,7 @@ Antriksh Shah[(@antriksh_s)](https://twitter.com/antriksh_s)
 *To Be Announced*
 
 ### Contact Us:
-We tweet and give announcements about important updates before, during, and after DEFCON / other events from our Twitter handle [@reconvillage](https://twitter.com/reconvillage) and our Facebook page [@reconvillage](https://facebook.com/reconvillage). Watch out for major announcements and other  recon or osint related tweets / retweets / updates.
+We tweet and give announcements about important updates before, during, and after DEFCON / other events from our Twitter handle [@reconvillage](https://twitter.com/reconvillage) and our Facebook page [@reconvillage](https://facebook.com/reconvillage). Watch out for major announcements and other  recon or OSINT related tweets / retweets / updates.
 
 If you have any questions, suggestions or queries, please email us at contact@reconvillage.org. Use the same for media inquiries too.
 
