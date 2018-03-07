@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/beijing_nite.jpg
+  overlay_image: /assets/images/beijing_nites.jpg
   cta_label: "Get Involved.."
   cta_url: "https://docs.google.com/forms/d/e/1FAIpQLSe8znlu6s4uc91UzWr1fcAvdyP17W5n84fhElOcIjXhQd3W3Q/viewform?usp=sf_link"
   caption:
