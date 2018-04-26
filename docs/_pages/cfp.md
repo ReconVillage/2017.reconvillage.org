@@ -15,11 +15,11 @@ layouts_gallery:
 last_modified_at: 2018-03-07T14:28:13-05:00
 ---
 <br>
-Our CFP is now **CLOSED** for DEF CON China, and we are looking for top-notch presentations and workshops to fill in our schedule.
+Our CFP is now **OPEN** for DEF CON 26 Las Vegas, and we are looking for top-notch presentations and workshops to fill in our schedule.
 
-<!---If you are passionate about OSINT and Reconnaissance, and want to talk about something you did or you know, in front of a more targeted audience, submit your proposals to Recon Village CFP. 
+If you are passionate about OSINT and Reconnaissance, and want to talk about something you did or you know, in front of a more targeted audience, submit your proposals to Recon Village CFP. 
 
-<center><div markdown="0"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfTLhkfmJ2yaRucR4iXoYTenBLtCIElg9V9nRPbqcaiLTdkzA/viewform?usp=sf_link" class="btn btn--success" size="10 ">SUBMIT TO CFP</a></div></center>
+<center><div markdown="0"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeSwGh2fs-53nlHE7A6Sv1eeYRLXyFd7vW4ZS6LIiOj5t4-OA/viewform?usp=sf_link" class="btn btn--success" size="10 ">SUBMIT TO CFP</a></div></center>
 <br>
 We are seeking four kinds of submissions: Talks, Live Demos, Lightning Talks, and Workshops with emphasis on following areas:
 
@@ -38,7 +38,7 @@ We are seeking four kinds of submissions: Talks, Live Demos, Lightning Talks, an
 
 We will not accept any product or vendor related pitch. If your presentation talks about any vendor/product, we will encourage you to stay away. Before submitting, you might like to have a look on our previous talks on the following youtube playlist: [https://www.youtube.com/playlist?list=PL9fPq3eQfaaA5neLZBXGxF3MtaT4M4Mq5](https://www.youtube.com/playlist?list=PL9fPq3eQfaaA5neLZBXGxF3MtaT4M4Mq5)
 
-CFP closes on 10th April and final list of talks will be updated on our website by 25th April.
+CFP closes on 3rd June and final list of talks will be updated on our website by 25th June.
 
 Speaker Benefits:
 * The awesome Recon Village Speaker Tshirt
@@ -46,17 +46,19 @@ Speaker Benefits:
 * Our exclusive Ninja Coin
 * Free Hugs
 * Party Invite
--->
+
 ## Important Dates
 
 | What?                                        | When?	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Call For Papers/Tools/Workshops/Demos OPEN | 7th March 2018 |
-| Call for Volunteers OPEN | 2nd April 2018 |
-| Call For Papers/Tools/Workshops/Demos CLOSE | 10th April 2018 |
-| Notification to Speakers | 18 April 2018|
-| Schedule Announcement | 25th April 2018|
-| Recon Village @ DEF CON China | 11th - 13th May 2018 |
+| Recon Village DEFCON China Schedule Announcement | 11th - 13th May 2018 |
+| Recon Village DEFCON China | 11th - 13th May 2018 |
+| CFP DEFCON 26 Las Vegas OPEN | 26th April 2018 |
+| Call DEFCON 26 Las Vegas CLOSE| 3rd June 2018 |
+| Notification to Speakers | 18th June 2018|
+| Recon Village DEFCON 26 Schedule Announcement | 25th June 2018|
+| Recon Village DEFCON 26 | 10th - 12th August 2018 |
+
 
 <!---
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfTLhkfmJ2yaRucR4iXoYTenBLtCIElg9V9nRPbqcaiLTdkzA/viewform?usp=sf_link" class="btn btn--success">SUBMIT TO CFP</a></center><br>
