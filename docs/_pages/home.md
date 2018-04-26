@@ -13,10 +13,6 @@ feature_row:
     alt: "Useful Links"
     title: "Useful Links"
     excerpt: "<h3><a href='https://docs.google.com/forms/d/e/1FAIpQLSeSwGh2fs-53nlHE7A6Sv1eeYRLXyFd7vW4ZS6LIiOj5t4-OA/viewform?usp=sf_link'>Submit to CFP</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSebSm0XfsYiWCTp11J2DBUHWXB4ApOmJhabfjQHA_yOizmdCg/viewform?usp=sf_link'>Be a Volunteer</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSfJam6OWO_dC1ZGc4IXvWLHnaKL8BuzAIkusjEqkG5AxBJ36A/viewform?usp=sf_link'>Get Involved/Sponsor Us</a> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
-
-    https://docs.google.com/forms/d/e/1FAIpQLSebSm0XfsYiWCTp11J2DBUHWXB4ApOmJhabfjQHA_yOizmdCg/viewform?usp=sf_link
-
-    url: "/docs/configuration/"
   - image_path: /assets/images/announcements.png
     alt: "Announcements"
     title: "Announcements"
