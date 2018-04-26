@@ -12,12 +12,15 @@ feature_row:
   - image_path: /assets/images/useful_links.png
     alt: "Useful Links"
     title: "Useful Links"
-    excerpt: "<h3><a href='https://docs.google.com/forms/d/e/1FAIpQLSfTLhkfmJ2yaRucR4iXoYTenBLtCIElg9V9nRPbqcaiLTdkzA/viewform'>Submit to CFP</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSe8znlu6s4uc91UzWr1fcAvdyP17W5n84fhElOcIjXhQd3W3Q/viewform?usp=sf_link'>Get Involved/Sponsor Us</a> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
+    excerpt: "<h3><a href='https://docs.google.com/forms/d/e/1FAIpQLSeSwGh2fs-53nlHE7A6Sv1eeYRLXyFd7vW4ZS6LIiOj5t4-OA/viewform?usp=sf_link'>Submit to CFP</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSebSm0XfsYiWCTp11J2DBUHWXB4ApOmJhabfjQHA_yOizmdCg/viewform?usp=sf_link'>Be a Volunteer</a><br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLSfJam6OWO_dC1ZGc4IXvWLHnaKL8BuzAIkusjEqkG5AxBJ36A/viewform?usp=sf_link'>Get Involved/Sponsor Us</a> <!--Sponsor Form</a><br><a href=''> Get Involved Form</a><br>-->"
+
+    https://docs.google.com/forms/d/e/1FAIpQLSebSm0XfsYiWCTp11J2DBUHWXB4ApOmJhabfjQHA_yOizmdCg/viewform?usp=sf_link
+
     url: "/docs/configuration/"
   - image_path: /assets/images/announcements.png
     alt: "Announcements"
     title: "Announcements"
-    excerpt: "<h3 style='color:#53ADC8;'>7th March - CFP OPEN<br><br>1st March - Recon Village will be at DEFCON China<br><br></h3>"
+    excerpt: "<h3 style='color:#53ADC8;'>26th April - RV DEFCON 26 CFP OPEN<br><br>7th March - RV DEFCON China CFP OPEN<br><br>1st March - Recon Village will be at DEFCON China<br><br></h3>"
     url: "/docs/license/"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
