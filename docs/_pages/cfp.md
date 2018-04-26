@@ -21,6 +21,14 @@ If you are passionate about OSINT and Reconnaissance, and want to talk about som
 
 <center><div markdown="0"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeSwGh2fs-53nlHE7A6Sv1eeYRLXyFd7vW4ZS6LIiOj5t4-OA/viewform?usp=sf_link" class="btn btn--success" size="10 ">SUBMIT TO CFP</a></div></center>
 <br>
+
+We are accepting four kind of submissions:
+
+- Comprehensive talks (30 - 45 minutes - Detailed research talks)
+- Live Demos (20 - 30 minutes - Live Demo of a Tool/Technique/Methodology)
+- Lightning talks 10 - 20 Minutes - Quick talks about an approach or methods)
+- Workshops ( 1 - 2 hours - Hands On or Instructor Led training for free)
+
 We are seeking four kinds of submissions: Talks, Live Demos, Lightning Talks, and Workshops with emphasis on following areas:
 
 - Open Source Intelligence
