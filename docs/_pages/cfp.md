@@ -59,12 +59,12 @@ Speaker Benefits:
 
 | What?                                        | When?	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Recon Village DEFCON China Schedule Announcement | 11th - 13th May 2018 |
-| Recon Village DEFCON China | 11th - 13th May 2018 |
+| Call For Tshirts | TBA |
+| Call For Hackathon Participation | TBA |
 | CFP DEFCON 26 Las Vegas OPEN | 26th April 2018 |
-| Call DEFCON 26 Las Vegas CLOSE| 3rd June 2018 |
-| Notification to Speakers | 18th June 2018|
-| Recon Village DEFCON 26 Schedule Announcement | 25th June 2018|
+| CFP DEFCON 26 Las Vegas CLOSE| 15th June 2018 |
+| Notification to Speakers | 25th June 2018|
+| Recon Village DEFCON 26 Schedule Announcement | 1st July 2018|
 | Recon Village DEFCON 26 | 10th - 12th August 2018 |
 
 
