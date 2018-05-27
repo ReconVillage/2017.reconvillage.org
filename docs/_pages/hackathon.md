@@ -20,7 +20,7 @@ HACKATHONs are a great way to achieve multiple objectives at the same time? You 
 
 Fancy the challenge and interested in some amazing prizes? Go Register now. 
 
-<center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center>
+<center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center><br>
 
 Find below more information about the same.
 <br>**When:** 10th August to 12th August 10:AM
