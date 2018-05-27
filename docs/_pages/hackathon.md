@@ -14,19 +14,18 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2018-03-07T14:28:13-05:00
 ---
-<center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center>
-<br>
-
 Do you fancy writing some code this DEFCON and make something productive while some concentrated music plays on, energy drinks flow and we all compete for solving some interesting problems in OSINT. Something which is useful to the folks in OSINT/Recon community space. We are sure the Hacker environment at DEFCON helps in such challenges and that's the reason we are hosting a HACKATHON this year at DEFCON 26 Vegas. Believe us, we can't be more excited. 
 
 HACKATHONs are a great way to achieve multiple objectives at the same time? You and your team make a product in a deadline, your productivity goes high. We get a OSINT dose. Community gets a tool. Everybody Wins. 
 
 Fancy the challenge and interested in some amazing prizes? Go Register now. 
 
+<center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center>
+
 Find below more information about the same.
-**When:** 10th August to 12th August 10:AM
-**Tool/Product Showcase:** 12th August 10:00 AM to 12:30 PM
-**Prize Distribution:** 12th August, 12:30 PM
+<br>**When:** 10th August to 12th August 10:AM
+<br>**Tool/Product Showcase:** 12th August 10:00 AM to 12:30 PM
+<br>**Prize Distribution:** 12th August, 12:30 PM
 
 Rules: 
 1. In order to participate, fill in this form and register.
@@ -40,7 +39,6 @@ Rules:
 9. Limited number of teams can play this, so you need to register in advance. Registration goes first come first server basis, so Hurry up. 
 
 <center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center>
-<br>
 
 ## <center> Hackathon Schedule </center>
 
