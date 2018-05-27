@@ -1,6 +1,6 @@
 ---
 permalink: /cfp/
-title: "CFP Open (Recon Village DEFCON China)"
+title: "CFP Open - DEFCON 26"
 excerpt: "Call For Papers Information"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
