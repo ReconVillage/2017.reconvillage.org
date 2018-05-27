@@ -67,6 +67,8 @@ Speaker Benefits:
 | Recon Village DEFCON 26 Schedule Announcement | 1st July 2018|
 | Recon Village DEFCON 26 | 10th - 12th August 2018 |
 
+<center><div markdown="0"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeSwGh2fs-53nlHE7A6Sv1eeYRLXyFd7vW4ZS6LIiOj5t4-OA/viewform?usp=sf_link" class="btn btn--success" size="10 ">SUBMIT TO CFP</a></div></center>
+<br>
 
 <!---
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfTLhkfmJ2yaRucR4iXoYTenBLtCIElg9V9nRPbqcaiLTdkzA/viewform?usp=sf_link" class="btn btn--success">SUBMIT TO CFP</a></center><br>
