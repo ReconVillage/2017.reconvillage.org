@@ -24,6 +24,8 @@ main:
     url: /cfp/
   - title: "OSINT CTF"
     url: /ctf/ 
+  - title: "HackAThon"
+    url: /hackathon/ 
   - title: "Schedule"
     url: /schedule/
   - title: "Sponsors"
