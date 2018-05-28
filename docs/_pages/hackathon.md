@@ -18,7 +18,7 @@ Do you fancy writing some code this DEFCON and make something productive? We mak
 
 With this HACKATHON, we strive to achieve multiple objectives at the same time. You and your team distil a visionary concept down to an actionable solution. You get a sense of achievement. You meet like minded people. Community goes bigger with your contribution. Everybody Wins. 
 
-Are you game? Go Register now. [Limited number of Teams]
+Are you game? Go Register now. 
 
 <center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center><br>
 
