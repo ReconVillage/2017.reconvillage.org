@@ -23,20 +23,20 @@ Fancy the challenge and interested in some amazing prizes? Go Register now.
 <center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center><br>
 
 Find below more information about the same.
-<br>**When:** 10th August to 12th August 10:AM
-<br>**Tool/Product Showcase:** 12th August 10:00 AM to 12:30 PM
-<br>**Prize Distribution:** 12th August, 12:30 PM
+<br> - **When:** 10th August to 12th August 10:AM
+<br> - **Tool/Product Showcase:** 12th August 10:00 AM to 12:30 PM
+<br> - **Prize Distribution:** 12th August, 12:30 PM
 
 Rules: 
-1. In order to participate, fill in this form and register.
-2. You can register as a team with no more than 3 people in a team. 
-3. You will make the product/tool during the event. All products/tools will be showcased by their respective teams on 12th August. Each Team gets 10 minutes to showcase their work. Best products/tools gets prizes. 
-4. Winners to be decided by our Jury Members.
-5. Winners cannot be employees of the organizations sponsoring the HACKATHON.
-6. Tools / Products developed during Hack-A-Thon will have to be Open Source in order to be eligible. Team need to put the code on Github before showcasing. 
-7. If you don't want to put it on your Github, you can put it under ReconVillage's 2018 HACKATHON Github Repo. In any case you can use RV HACKATHON Badge on your repo. 
-8. Participants have to be available in Person at DEFCON 26 - Recon Village Florentine I Room during the time of prize distribution. 
-9. Limited number of teams can play this, so you need to register in advance. Registration goes first come first server basis, so Hurry up. 
+*1. In order to participate, fill in this form and register.
+*2. You can register as a team with no more than 3 people in a team. 
+*3. You will make the product/tool during the event. All products/tools will be showcased by their respective teams on 12th August. Each Team gets 10 minutes to showcase their work. Best products/tools gets prizes. 
+*4. Winners to be decided by our Jury Members.
+*5. Winners cannot be employees of the organizations sponsoring the HACKATHON.
+*6. Tools / Products developed during Hack-A-Thon will have to be Open Source in order to be eligible. Team need to put the code on Github before showcasing. 
+*7. If you don't want to put it on your Github, you can put it under ReconVillage's 2018 HACKATHON Github Repo. In any case you can use RV HACKATHON Badge on your repo. 
+*8. Participants have to be available in Person at DEFCON 26 - Recon Village Florentine I Room during the time of prize distribution. 
+*9. Limited number of teams can play this, so you need to register in advance. Registration goes first come first server basis, so Hurry up.*
 
 <center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center>
 
