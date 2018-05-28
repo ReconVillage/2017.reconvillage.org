@@ -25,7 +25,7 @@ Are you game? Go Register now.
 Find below more information about the same.
 <br> - **When:** 10th August to 12th August 10:AM
 <br> - **Tool/Product Showcase:** 12th August 10:00 AM to 12:30 PM
-<br> - **Prize Distribution:** 12th August, 12:30 PM
+<br> - **Prize Distribution:** 12th August, 01:30 PM
 
 **Rules:** 
 
