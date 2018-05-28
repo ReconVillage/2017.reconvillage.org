@@ -27,7 +27,8 @@ Find below more information about the same.
 <br> - **Tool/Product Showcase:** 12th August 10:00 AM to 12:30 PM
 <br> - **Prize Distribution:** 12th August, 12:30 PM
 
-Rules: 
+**Rules:** 
+
 *1. In order to participate, fill in this form and register.*
 
 *2. You can register as a team with no more than 3 people in a team.*
@@ -35,6 +36,7 @@ Rules:
 *3. You will make the product/tool during the event. All products/tools will be showcased by their respective teams on 12th August. Each Team gets 10 minutes to showcase their work. Best products/tools gets prizes.* 
 
 *4. Winners to be decided by our Jury Members.*
+
 *5. Winners cannot be employees of the organizations sponsoring the HACKATHON.*
 
 *6. Tools / Products developed during Hack-A-Thon will have to be Open Source in order to be eligible. Team need to put the code on Github before showcasing.*
