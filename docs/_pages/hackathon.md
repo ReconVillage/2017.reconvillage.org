@@ -14,11 +14,11 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2018-03-07T14:28:13-05:00
 ---
-Do you fancy writing some code this DEFCON and make something productive while some concentration music plays on, energy drinks flow and we all compete for solving some interesting problems in OSINT. Something which is useful to the folks in OSINT/Recon community space. We are sure the Hacker environment at DEFCON helps in such challenges and that's the reason we are hosting a HACKATHON this year at DEFCON 26 Vegas. Believe us, we can't be more excited. 
+Do you fancy writing some code this DEFCON and make something productive? We make sure that the concentration music plays on, energy drinks flow while you compete for solving some interesting problems using Recon/OSINT. We are sure the Hacker environment at DEFCON helps in such challenges and that's the reason we are hosting a HACKATHON this year at DEFCON 26 Vegas. Believe us, we can't be more excited. 
 
-HACKATHONs are a great way to achieve multiple objectives at the same time? You and your team make a product in a deadline, your productivity goes high. We get a OSINT dose. Community gets a tool. Everybody Wins. 
+With this HACKATHON, we strive to achieve multiple objectives at the same time. You and your team distil a visionary concept down to an actionable solution. You get a sense of achievement. You meet like minded people. Community goes bigger with your contribution. Everybody Wins. 
 
-Fancy the challenge and interested in some amazing prizes? Go Register now. 
+Are you game? Go Register now. [Limited number of Teams]
 
 <center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center><br>
 
@@ -29,23 +29,27 @@ Find below more information about the same.
 
 **Rules:** 
 
-*1. In order to participate, fill in this form and register.*
+*1. In order to participate, you have fill in the Hackathon Registration Form Online. There will be NO ONSITE REGISTRATION.*
 
-*2. You can register as a team with no more than 3 people in a team.*
+*2. You can register as an individual or a team with no more than 3 people in a team.*
 
-*3. You will make the product/tool during the event. All products/tools will be showcased by their respective teams on 12th August. Each Team gets 10 minutes to showcase their work. Best products/tools gets prizes.* 
+*3. You will have to make the product/tool during the event. Tools have to be related to Reconnassaince / OSINT. However specific theme on which these tools/products can be made, will be announced on 10th August 2018.*
 
-*4. Winners to be decided by our Jury Members.*
+*4. By the end of 11th August, team(s) will have to share the progress of their tool/product. Based on that, top 10 teams will be invited to showcase their tool during the Showcase Hours - 10:00 AM to 12:30 PM, 12th August.*
 
-*5. Winners cannot be employees of the organizations sponsoring the HACKATHON.*
+*5. Each of these top 10 Team gets 10 minutes to showcase their work. Our jury members will select the winning teams.* 
 
-*6. Tools / Products developed during Hack-A-Thon will have to be Open Source in order to be eligible. Team need to put the code on Github before showcasing.*
+*6. Winners cannot be the employees of the organizations sponsoring the HACKATHON.*
 
-*7. If you don't want to put it on your Github, you can put it under ReconVillage's 2018 HACKATHON Github Repo. In any case you can use RV HACKATHON Badge on your repo.* 
+*7. Tools / Products developed during Hack-A-Thon will have to be Open Source in order to be eligible. Team(s) will have to push the code to Github before showcasing.*
 
-*8. Participants have to be available in Person at DEFCON 26 - Recon Village Florentine I Room during the time of prize distribution.* 
+*8. If you don't want to put it on your Github Account, you can put it under ReconVillage's 2018 HACKATHON Github Account. In any case you can use RV HACKATHON Badge on your Github repo.* 
 
-*9. Limited number of teams can play this, so you need to register in advance. Registration goes first come first server basis, so Hurry up.*
+*9. Participants have to be available in Person during the Showcase Hours - 10:00 AM to 12:30 PM, 12th August at DEFCON 26 - Recon Village, Florentine II Room.* 
+
+*10. Winners Announcement and Prize Distribution will take place at 1:30 PM - 12th August in Florentine II Room.* 
+
+*11. Teams will have to bring in their own laptops. Recon Village will not be able to provide you laptops. We will provide power strips but you will have to bring power converters (if required).*
 
 <center><div markdown="0"><a href="https://goo.gl/forms/Tla8ZabPTRby1UFe2" class="btn btn--success" size="10 ">Register Your Team for Hackathon</a></div></center>
 
