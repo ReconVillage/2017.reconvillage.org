@@ -57,7 +57,7 @@ Find below more information about the same.
 
 | What?                                        | When?	                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Hackathon Team Registration Open | 30th May, 2018 |
+| Hackathon Team Registration Open | 29th May, 2018 |
 | Hackathon Team Registration Closes | TBA |
 | Hackathon Dates | 10th August to 12th August |
 | Winners Announcement | 12th August |
