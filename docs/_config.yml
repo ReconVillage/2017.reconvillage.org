@@ -82,7 +82,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/site-logo.png"
   bio              : "An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance. 10th to 12th August, 2018"
-  location         : "Florentine I and II, Ceasars Palace, Las Vegas"
+  location         : "Las Vegas, USA"
   email            :
   uri              : "http://reconvillage.org"
   bitbucket        :
