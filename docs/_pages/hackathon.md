@@ -1,7 +1,7 @@
 ---
 permalink: /hackathon/
 title: "Hackathon"
-excerpt: "Recon Village Hackathon Information @DEFCOn 26"
+excerpt: "Recon Village Hackathon Information @DEFCON 26"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
