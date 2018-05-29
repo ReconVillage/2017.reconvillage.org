@@ -29,7 +29,7 @@ Find below more information about the same.
 
 **Rules:** 
 
-*1. In order to participate, you have fill in the Hackathon Registration Form Online. There will be NO ONSITE REGISTRATION.*
+*1. In order to participate, you have fill in the Hackathon Registration Form Online. There will be **NO ONSITE REGISTRATION.***
 
 *2. You can register as an individual or a team with no more than 3 people in a team.*
 
