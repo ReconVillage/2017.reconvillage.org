@@ -83,7 +83,7 @@ Social Mapper takes a variety of input types such as:
 - A CSV file with names and url's to images online"
 
  
-
+<br>
 <h1><center>CFP Timeline</center></h1>
 
 | What?                                        | When?	                                           |
