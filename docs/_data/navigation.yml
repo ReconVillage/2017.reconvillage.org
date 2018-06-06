@@ -28,6 +28,8 @@ main:
     url: /hackathon/ 
   - title: "Schedule"
     url: /schedule/
+  - title: "Talks"
+    url: /talks/
   - title: "Sponsors"
     url: /sponsors/ 
   - title: "About Us"

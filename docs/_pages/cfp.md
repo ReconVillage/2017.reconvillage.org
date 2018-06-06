@@ -47,7 +47,7 @@ We are seeking four kinds of submissions: Talks, Live Demos, Lightning Talks, an
 We will not accept any product or vendor related pitch. If your presentation talks about any vendor/product, we will encourage you to stay away. Before submitting, you might like to have a look on our previous talks on the following youtube playlist: [https://www.youtube.com/playlist?list=PL9fPq3eQfaaA5neLZBXGxF3MtaT4M4Mq5](https://www.youtube.com/playlist?list=PL9fPq3eQfaaA5neLZBXGxF3MtaT4M4Mq5)
 
 CFP closes on 15th June and final list of talks will be updated on our website by 25th June.
-
+	
 Speaker Benefits:
 * The awesome Recon Village Speaker Tshirt
 * Recon Village Speaker Badge

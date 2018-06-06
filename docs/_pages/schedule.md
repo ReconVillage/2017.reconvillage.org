@@ -19,16 +19,6 @@ This is the time of year when we are super excited about DEF CON, isn't it? We h
 
 If you are excited too, what are you waiting for? Go get started with your preparations.  Here is our schedule for this year so you can plan accordingly: 
 
-#### <center>Recon Village @ DEF CON China</center>
-
-| What?                                        | When?	                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| Call For Papers/Tools/Workshops/Demos OPEN | 7th March 2018 |
-| Call for Volunteers OPEN | 2nd April 2018 |
-| Call For Papers/Tools/Workshops/Demos CLOSE | 5th April 2018 |
-| Recon Village @ DEF CON China | 11th - 13th May 2018 |
-
-
 #### <center>Recon Village @ DEF CON 26, USA (Las Vegas)</center>
 
 | What?                                        | When?	                                           |
