@@ -1,5 +1,5 @@
 ---
-permalink: /talks/
+permalink: /talks-2018/
 title: ""
 excerpt: "Recon Village Talks DEFCON 26"
 header:
