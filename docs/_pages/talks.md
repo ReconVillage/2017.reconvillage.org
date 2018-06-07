@@ -16,7 +16,7 @@ While the CFP is still [OPEN](https://docs.google.com/forms/d/e/1FAIpQLSeSwGh2fs
 
 # Comprehensive Talks
 
-## Bug Bounty Hunting on Steroids - [Anshuman Bhartiya](https://twitter.com/anshuman_bh)
+## Bug Bounty Hunting on Steroids - [Anshuman Bhartiya](https://twitter.com/anshuman_bh) and [Glenn Grant](https://twitter.com/_devalias)
 
 Bug bounty programs are a hot topic these days. More and more companies are realizing the benefits of running a program, and researchers are jumping at the opportunity to grab some swag and make some extra cash from the bugs they find. Reporting security issues has never been as easy, open, and risk-free as it is right now. Everybody wins!
 
