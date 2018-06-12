@@ -20,7 +20,7 @@ While the CFP is still [OPEN](https://docs.google.com/forms/d/e/1FAIpQLSeSwGh2fs
 
 Bug bounty programs are a hot topic these days. More and more companies are realizing the benefits of running a program, and researchers are jumping at the opportunity to grab some swag and make some extra cash from the bugs they find. Reporting security issues has never been as easy, open, and risk-free as it is right now. Everybody wins!
 
-Though that doesn't mean we should stop there. As researchers, we spend a lot of time doing the same menial tasks for each program: monitoring for new targets, checking for common issues, remembering just which flags you needed to pass to that tool (or even which tool is best for that job). We build new tools, hack together shell scripts, and generally make small incremental changes to our process. But surely there‚Äôs a better approach?
+Though that doesn't mean we should stop there. As researchers, we spend a lot of time doing the same menial tasks for each program: monitoring for new targets, checking for common issues, remembering just which flags you needed to pass to that tool (or even which tool is best for that job). We build new tools, hack together shell scripts, and generally make small incremental changes to our process. But surely there's a better approach.
 
 Are you sick of repeating the same tedious tasks over and over? Wouldn't it be nice to have your own bug hunting machine? One that -
 * Is always watching
@@ -31,11 +31,11 @@ Are you sick of repeating the same tedious tasks over and over? Wouldn't it be n
 * Leverages lessons and technologies battle tested in the dev world to improve your offensive capacity, capability and productivity
 * Monitors your own infrastructure and reacts before hackers can (while saving you the cost of those Bug Bounty payouts in the meantime)
  
-We call this approach Bug Bounty Hunting on Steroids. We will discuss our research and approach to building such a machine, sharing some of the lessons we learned along the way.	x
+We call this approach Bug Bounty Hunting on Steroids. We will discuss our research and approach to building such a machine, sharing some of the lessons we learned along the way.
 
 ## Emergent Recon - fresh methodology and tools for hackers in 2018 - [Jason Haddix](https://twitter.com/jhaddix)
 
-Recon is an art AND an science. The landscape for methods of finding hosts to attack is constantly changing. Whether you call it "Asses Discovery" or something else, it remains a core part of bounty hunter and red teaming life. Join Jason as he expands on his ever changing recon methodology. This talk will focus on what tools to incorporate (and which tools not to). It will outline new methods coined in 2018,  plus frameworks to automate and document your workflow. Topics include: brand/TLD discovery, host enumeration,  application threat modeling, and more!
+Recon is an art AND a science. The landscape for methods of finding hosts to attack is constantly changing. Whether you call it "Assets Discovery" or something else, it remains a core part of bounty hunter and red teaming life. Join Jason as he expands on his ever changing recon methodology. This talk will focus on what tools to incorporate (and which tools not to). It will outline new methods coined in 2018, plus frameworks to automate and document your workflow. Topics include: brand/TLD discovery, host enumeration, application threat modeling, and more!
 
 ## Mapping wifi networks and triggering on interesting traffic patterns - [Caleb Madrigal](https://twitter.com/caleb_madrigal)
 
@@ -47,11 +47,11 @@ For all these use-cases, I've developed a new tool called "trackerjacker". In th
 
 In 2015, I did a Skytalk called "Automate Your Stalking". In that talk, I used Twitter to follow my Target's followers in an effort to monitor the target without following them directly and arousing suspicion. I'm the end, I felt like I released a method that may be dangerous in the hands of the wrong people. Now, "Stalker In A Haystack" is the antidote to my first talk. I will be putting the power back into the hands of the people who need it. 
 
-In this talk, I will demonstrate how you can determine if you are being monitored via Twitter, and by who. Isn't it suspicious when that one handle is following everyone but you? What does that mean? Stalkers can hide in your sea of followers, and the aim of this talk is to uncover those who lie in the shadows.
+In this talk, I will demonstrate how you can determine if you are being monitored via Twitter, and by whom. Isn't it suspicious when that one handle is following everyone but you? What does that mean? Stalkers can hide in your sea of followers, and the aim of this talk is to uncover those who lie in the shadows.
 
 ## Using Deep Learning to uncover darkweb malicious actors and their close circle - [Rod Soto](https://twitter.com/rodsoto) and [@josephzadeh](https://twitter.com/josephzadeh)
 
-This presentation shows how data driven techniques can be used to provide vision and establish  relationships between users and participants of DarkWeb forums. These relationships can provide clues to uncover and reveal tracks of malicious actors. Things such as chat room transcripts and forum data are used can be used to build graphical relationships. 
+This presentation shows how data driven techniques can be used to provide vision and establish relationships between users and participants of DarkWeb forums. These relationships can provide clues to uncover and reveal tracks of malicious actors. Things such as chat room transcripts and forum data are used can be used to build graphical relationships. 
 
 This provides a context where it is possible to use machine learning algorithms to unmask relationships and profile users of these dark forums. Some of the methods used include Machine Learning Algorithms such as Googles PageRank. 
 
