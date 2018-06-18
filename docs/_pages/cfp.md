@@ -15,7 +15,7 @@ layouts_gallery:
 last_modified_at: 2018-03-07T14:28:13-05:00
 ---
 <br>
-Our CFP is now **OPEN** for DEF CON 26 Las Vegas, and we are looking for top-notch presentations and workshops to fill in our schedule.
+Our CFP is now **CLOSED** for DEF CON 26 Las Vegas. Stay tuned. 
 
 If you are passionate about OSINT and Reconnaissance, and want to talk about something you did or you know, in front of a more targeted audience, submit your proposals to Recon Village CFP. 
 
