@@ -22,39 +22,6 @@ If you are passionate about OSINT and Reconnaissance, and want to talk about som
 <center><div markdown="0"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeSwGh2fs-53nlHE7A6Sv1eeYRLXyFd7vW4ZS6LIiOj5t4-OA/viewform?usp=sf_link" class="btn btn--success" size="10 ">SUBMIT TO CFP</a></div></center>
 <br>
 
-We are accepting four kind of submissions:
-
-- Comprehensive talks (30 - 45 minutes)
-- Live Demos (20 - 30 minutes)
-- Lightning talks 10 - 20 Minutes)
-- Workshops ( 1 - 2 hours)
-
-We are seeking four kinds of submissions: Talks, Live Demos, Lightning Talks, and Workshops with emphasis on following areas:
-
-- Open Source Intelligence
-- Web Mining and Intelligence
-- Metadata Analysis
-- Counter Intelligence
-- Social Network Analysis
-- Investigative Data Mining
-- Privacy and Legal Issues
-- Social Media Intelligence
-- Reconnaissance / OSINT Automation
-- Visualization / Data Analysis
-- Data Corelation
-- OSINT into Offensive / Defensive Security
-
-We will not accept any product or vendor related pitch. If your presentation talks about any vendor/product, we will encourage you to stay away. Before submitting, you might like to have a look on our previous talks on the following youtube playlist: [https://www.youtube.com/playlist?list=PL9fPq3eQfaaA5neLZBXGxF3MtaT4M4Mq5](https://www.youtube.com/playlist?list=PL9fPq3eQfaaA5neLZBXGxF3MtaT4M4Mq5)
-
-CFP closes on 15th June and final list of talks will be updated on our website by 25th June.
-	
-Speaker Benefits:
-* The awesome Recon Village Speaker Tshirt
-* Recon Village Speaker Badge
-* Our exclusive Ninja Coin
-* Free Hugs
-* Party Invite
-
 ## Important Dates
 
 | What?                                        | When?	                                           |
