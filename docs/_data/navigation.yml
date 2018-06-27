@@ -20,8 +20,6 @@ foo:
 
 # main links
 main:
-  - title: "CFP"
-    url: /cfp/
   - title: "OSINT CTF"
     url: /ctf/ 
   - title: "HackAThon"

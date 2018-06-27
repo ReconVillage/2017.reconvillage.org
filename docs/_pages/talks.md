@@ -10,7 +10,7 @@ last_modified_at: 2018-06-05T14:28:13-05:00
 
 {% include toc title="RV DEFCON 26 Talks" icon="file-text" %}
 
-We have received a huge number of awesome talks this year and it's been super difficult for our review panel to select the ones which fits best into Recon Village
+We have received a huge number of awesome talks this year and it was super difficult for our review panel to select the ones which fits best into Recon Village
 
 
 # Comprehensive Talks
