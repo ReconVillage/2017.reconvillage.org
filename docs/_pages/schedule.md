@@ -24,7 +24,7 @@ Note: If you think there should be any corrections, please contact us at [contac
 | Shubham Mittal / Sudhanshu Chahuhan | [@upgoingstar](https://twitter.com/upgoingstar) / [@sudhanshu_c](https://twitter.com/sudhanshu_c) | **Opening Note** | 1200 - 1210 | 10th August | 10 Minutes | Opening Note| 
 | TBA | TBA | **Keynote** | 1210 - 1250 | 10th August | 40 Minutes | Keynote| 
 | Jason Haddix | [@jhaddix](https://twitter.com/jhaddix) | **Emergent Recon - fresh methodology and tools for hackers in 2018** | 1255 - 1335 | 10th August | 40 Minutes | Comprehensive| 
-| William Suthers | [@VICT0RIS](https://twitter.com/VICT0RIS) | **Prebellico - 100% Passive Pre-Engagement and Post Compromise Network Reconnaissance Tool** | 1440 - 1510 10th August | 30 Minutes | Live Demo| 
+| William Suthers | [@VICT0RIS](https://twitter.com/VICT0RIS) | **Prebellico - 100% Passive Pre-Engagement and Post Compromise Network Reconnaissance Tool** | 1440 - 1510 | 10th August | 30 Minutes | Live Demo| 
 | Marc DaCosta | [@marc_dacosta](https://twitter.com/marc_dacosta) | **Adventures in the dark web of government data** | 1515 - 1545 | 10th August | 30 Minutes | Comprehensive| 
 | Ethan Gregory Dodge | [@egd_io](https://twitter.com/egd_io) | **How WHOIS Data Uncovered $32 Billion Connected to the Mormon Church** | 1550 - 1610 | 10th August | 20 Minutes | Lightening| 
 | TBA | [@name](https://twitter.com/name) | **TBA** | 1615 - 1645 | 10th August | 30 Minutes | TBA| 
@@ -39,7 +39,7 @@ Note: If you think there should be any corrections, please contact us at [contac
 | Bharath Kumar and Madhu | [@yamakira_](https://twitter.com/yamakira_) | Building visualisation platforms for OSINT data using open source solutions | 1000 - 1200 | 11th August | 120 Minutes | Workshop
 | Anshuman Bhartiya and Glen Grant| [@anshuman_bh](https://twitter.com/anshuman_bh)| Bug Bounty Hunting on Steroids | 1210 - 1255 | 11th August | 45 Minutes | Comprehensive
 | Mbis0n Shadoru | Undisclosed | Targeted User Analytics and Human Honeypotss | 1300 - 1320 | 11th August | 20 Minutes | Lightening
-illwill | [@name](https://twitter.com/name) | skiptracer - ghetto OSINT for broke hackers | 1325 - 1355 | 11th August | 30 Minutes | Live Demo
+illwill | [@xillwillx](https://twitter.com/xillwillx) | skiptracer - ghetto OSINT for broke hackers | 1325 - 1355 | 11th August | 30 Minutes | Live Demo
 | Lloyd Miller | [@lloydamiller](https://twitter.com/lloydamiller) | Applied OSINT For Politics: Turning Open Data Into News | 1400 - 1440 | 11th August | 40 Minutes | Comprehensive
 | Jennifer Roderick | Undisclosed | 1983: I’m born. 2018: I’m taking on the bad guys | 1445 - 1505 | 11th August | 20 Minutes | Lightening
 | Micah Hoffman | [@WebBreacher](https://twitter.com/WebBreacher) | Core OSINT: Keeping Track of and Reporting All the Things | 1510 - 1550 | 11th August | 40 Minutes | Comprehensive
