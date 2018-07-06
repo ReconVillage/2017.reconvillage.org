@@ -58,5 +58,5 @@ illwill | [@xillwillx](https://twitter.com/xillwillx) | skiptracer - ghetto OSIN
 | MasterChen | [@chenb0x](https://twitter.com/chenb0x) | Stalker In A Haystack | 1125 - 1255 | 12th August | 30 Minutes | Comprehensive
 | Jacob Wilkin | [@Jacob_Wilkin](https://twitter.com/Jacob_Wilkin) | Mapping Social Media with Facial Recognition | 1640 - 1700 | 11th August | 20 Minutes | Lightening
 | Recon Village Team | [@name](https://twitter.com/name) | Hackathon and CTF Prizes, and a Group Photo | 1225 - 1240 | 12th August | 15 Minutes | Hackathon and CTF Prizes
-| Shubham Mittal / Sudhanshu Chauhan | [@upgoingstar](https://twitter.com/upgoingstar) / [@sudhanshu_c](https://twitter.com/sudhanshu_c) | Closing Note | 1245 - 1300 | 12th August |  | 
+| Shubham Mittal / Sudhanshu Chauhan | [@upgoingstar](https://twitter.com/upgoingstar) / [@sudhanshu_c](https://twitter.com/sudhanshu_c) | Closing Note | 1245 - 1300 | 12th August | 15th Minutes | Closing Note | 
 
