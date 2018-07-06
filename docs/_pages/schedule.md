@@ -17,9 +17,6 @@ last_modified_at: 2018-07-06T14:28:13-05:00
 Here is the list of awesome talks we selected this year. We received a huge number of submissions and if your talk was not selected, please do submit to us next year. 
 
 Note: If you think there should be any corrections, please contact us at [contact@reconvillage.org](mailto:contact@reconvillage.org). 
-
-[@name](https://twitter.com/name)
-
 <center> <h2>Day 1 - 10th August, 2018 - Friday</h2> </center>
 
 | Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  |  Talk Length  |  Type  |
