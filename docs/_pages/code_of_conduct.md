@@ -5,7 +5,7 @@ excerpt: "Code of Conduct"
 header:
   image: assets/images/unsplash-image-11.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-last_modified_at: 2018-06-05T14:28:13-05:00
+last_modified_at: 2017-06-05T14:28:13-05:00
 ---
 
 Recon Village is an Open Space with Talks, Live Demos, Workshops, Discussions, HackAthons, CTFs with a common focus on Reconnaissance and Open Source Intelligence. 
@@ -19,7 +19,6 @@ This Code of Conduct applies to everyone participating at Recon Village - from a
 Anyone can report harassment. If you are being harassed, notice that someone else is being harassed, or have any other concerns, you can contact a Goon, go to the registration desk, or info booth.
 
 Conference staff will be happy to help participants contact hotel security, local law enforcement, or otherwise assist those experiencing harassment to feel safe for the duration of Recon Village.
-
 
 *Shamelessly copied from [DEF CON's Code of Conduct](https://www.defcon.org/html/links/dc-code-of-conduct.html)*
 
