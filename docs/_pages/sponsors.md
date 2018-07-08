@@ -31,9 +31,7 @@ Big shout out to following sponsors for supporting us.
 
 ### BECOME A SPONSOR
 
-If you are interested in sponsoring Recon Village at DEFCON 26, drop us an email at [sponsors@reconvillage.org](mailto:sponsors@reconvillage.org).
-
-Or Fill in this quick **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPQaEhpwQh6nRB4hSnPj808B9c0-rKoZ4l0ChScgT8jJ04Lg/viewform?usp=sf_link)**
+If you are interested in sponsoring Recon Village at DEFCON 26, drop us an email at [sponsors@reconvillage.org](mailto:sponsors@reconvillage.org) or fill in this quick **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPQaEhpwQh6nRB4hSnPj808B9c0-rKoZ4l0ChScgT8jJ04Lg/viewform?usp=sf_link)**
 
 We are a **Not For Profit**, community-driven village that strives to promote and support research in OSINT / Recon community. All the money we get from sponsors goes in expenses of the village, i.e., t-shirts, badges, stickers, networking party, logistics, etc. (Yes, we don't sell our badges and t-shirts).
 
