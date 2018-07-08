@@ -1,7 +1,7 @@
 ---
 permalink: /schedule/
 title: "2018 - 19 Recon Village Talks Schedule"
-excerpt: "Upcoming Event Schedule"
+excerpt: "Recon Village DEFCON 26 Schedule"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -32,7 +32,7 @@ Note: If you think there should be any corrections, please contact us at [contac
 | Rod Soto and Joseph Zadeh| [@rodsoto](https://twitter.com/rodsoto) and [@josephzadeh](https://twitter.com/josephzadeh) | **Using Deep Learning to uncover darkweb malicious actors and their close circle**  | 1725 - 1755 | 10th August | 30 Minutes | Comprehensive| 
 | Mauro Caseres | [@mauroeldritch](https://twitter.com/mauroeldritch) | **I fought the law and law lost** | 1800 - 1835 | 10th August | 35 Minutes | Comprehensive | 
 
-<center> <h2>Day 2 - 11th August, 2018 - Friday</h2> </center>
+<center> <h2>Day 2 - 11th August, 2018 - Saturday</h2> </center>
 
 | Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  |  Talk Length  |  Type  |
 | ------------- |  -------  |  -----------------  |  ---------  |  -----------  |  ----  |
@@ -49,10 +49,10 @@ illwill | [@xillwillx](https://twitter.com/xillwillx) | skiptracer - ghetto OSIN
 | Mark Klink | [@evilbotnet](https://twitter.com/evilbotnet) | OpenPiMap - Hacking the hackers with OSINT, Raspberry Pis, and Data Analysis | 1740 - 1800 | 11th August | 20 Minutes | Lightening
 | Michael Gianarakis and Shubham Shah | [@mgianarakis](https://twitter.com/mgianarakis) | Supercharge Your Web Recon With Commonspeak and Evolutionary Wordlists | 1805- 1835 | 11th August | 30 Minutes | Comprehensive|
 
-<center> <h2>Day 3 - 12th August, 2018 - Friday</h2> </center>
+<center> <h2>Day 3 - 12th August, 2018 - Sunday</h2> </center>
 
-| Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  |  Talk Length  |  Type  |
-| ------------- |  -------  |  -----------------  |  ---------  |  -----------  |  ----  |
+| Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  | Date | Talk Length  |  Type  |
+| ------------- |  -------  |  -----------------  |  ---------  | ---- | -----------  |  ----  |
 | Dino Covotsos | [@telspacesystems](https://twitter.com/telspacesystems) | Hacking the international RFQ Process #killthebuzzwords | 1000 - 1050 | 12th August | 45 Minutes | Comprehensive
 | Wbbigdave | Undisclosed | Winning a SANS 504 CTF without winning a SANS CTF | 1050 - 1120 | 12th August | 30 Minutes | Live Demo
 | MasterChen | [@chenb0x](https://twitter.com/chenb0x) | Stalker In A Haystack | 1125 - 1255 | 12th August | 30 Minutes | Comprehensive
