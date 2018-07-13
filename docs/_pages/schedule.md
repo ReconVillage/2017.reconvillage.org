@@ -53,7 +53,7 @@ illwill | [@xillwillx](https://twitter.com/xillwillx) | [Skiptracer - ghetto OSI
 
 | Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  | Date | Talk Length  |  Type  |
 | ------------- |  -------  |  -----------------  |  ---------  | ---- | -----------  |  ----  |
-| HackaThon Product(s) Shocase by Participants| 1000 - 1050 | 12th August | 45 Minutes | Contest
+| HackaThon Product(s) Shocase by Participants | | | 1000 - 1050 | 12th August | 45 Minutes | Contest
 | Wbbigdave | Undisclosed | [Winning a SANS 504 CTF without winning a SANS CTF](http://reconvillage.org/talks-2018/#winning-a-sans-504-ctf-without-winning-a-sans-ctf---wbbigdave) | 1050 - 1120 | 12th August | 30 Minutes | Live Demo
 | MasterChen | [@chenb0x](https://twitter.com/chenb0x) | [Stalker In A Haystack](http://reconvillage.org/talks-2018/#stalker-in-a-haystack---masterchen) | 1125 - 1255 | 12th August | 30 Minutes | Comprehensive
 | Jacob Wilkin | [@Jacob_Wilkin](https://twitter.com/Jacob_Wilkin) | [Mapping Social Media with Facial Recognition](http://reconvillage.org/talks-2018/#mapping-social-media-with-facial-recognition---jacob-wilkin) | 1200 - 1225 | 12th August | 20 Minutes | Lightening
