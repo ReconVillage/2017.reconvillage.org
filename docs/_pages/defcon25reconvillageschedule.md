@@ -15,61 +15,52 @@ layouts_gallery:
 last_modified_at: 2017-05-03T14:28:13-05:00
 ---
 
-We have now finalized the time slots with our speakers and here is the compiled list of talks/workshops with respective time slots and speaker details. Hell Yeah. :D 
+Here is the list of awesome talks we selected this year. We received a huge number of submissions and if your talk was not selected, please do submit to us next year. 
 
-Registration/Info desk will open one hour before the village starts. Our village runs for following timings:
+Note: If you think there should be any corrections, please contact us at [contact@reconvillage.org](mailto:contact@reconvillage.org). 
+<center> <h2>Day 1 - 10th August, 2018 - Friday</h2> </center>
 
-- 28th July: 1400 - 1835 (Teardown by 1900)
-- 29th July: 1000 - 1800 (Teardown by 1830)
-- 30th July: 1000 - 1245 
+| Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  |  Talk Length  |  Type  |
+| ------------- |  -------  |  -----------------  |  ---------  |  -----------  |  ----  |
+| Shubham Mittal / Sudhanshu Chahuhan | [@upgoingstar](https://twitter.com/upgoingstar) / [@sudhanshu_c](https://twitter.com/sudhanshu_c) | **Opening Note** | 1200 - 1210 | 10th August | 10 Minutes | Opening Note| 
+| TBA | TBA | **Keynote** | 1210 - 1250 | 10th August | 40 Minutes | Keynote| 
+| Jason Haddix | [@jhaddix](https://twitter.com/jhaddix) | [Emergent Recon - fresh methodology and tools for hackers in 2018](http://reconvillage.org/talks-2018/#emergent-recon---fresh-methodology-and-tools-for-hackers-in-2018---jason-haddix) | 1255 - 1335 | 10th August | 40 Minutes | Comprehensive| 
+| William Suthers | [@VICT0RIS](https://twitter.com/VICT0RIS) | [Prebellico - 100% Passive Pre-Engagement and Post Compromise Network Reconnaissance Tool](http://reconvillage.org/talks-2018/#prebellico---100-passive-pre-engagement-and-post-compromise-network-reconnaissance-tool---william-suthers) | 1440 - 1510 | 10th August | 30 Minutes | Live Demo| 
+| Marc DaCosta | [@marc_dacosta](https://twitter.com/marc_dacosta) | [Adventures in the dark web of government data](http://reconvillage.org/talks-2018/#adventures-in-the-dark-web-of-government-data---marc-dacosta) | 1515 - 1545 | 10th August | 30 Minutes | Comprehensive| 
+| Ethan Gregory Dodge | [@egd_io](https://twitter.com/egd_io) | [How WHOIS Data Uncovered $32 Billion Connected to the Mormon Church](http://reconvillage.org/talks-2018/#how-whois-data-uncovered-32-billion-connected-to-the-mormon-church---ethan-dodge) | 1550 - 1610 | 10th August | 20 Minutes | Lightening| 
+| TBA | [@name](https://twitter.com/name) | **TBA** | 1615 - 1645 | 10th August | 30 Minutes | TBA| 
+| Micah Hoffman | [@WebBreacher](https://twitter.com/WebBreacher) | [Introducing YOGA: Your OSINT Graphical Analyzer](http://reconvillage.org/talks-2018/#introducing-yoga-your-osint-graphical-analyzer---micah-hoffman) | 1650 - 1720 | 10th August | 30 Minutes | Live Demo| 
+| Rod Soto and Joseph Zadeh| [@rodsoto](https://twitter.com/rodsoto) and [@josephzadeh](https://twitter.com/josephzadeh) | [Using Deep Learning to uncover darkweb malicious actors and their close circle](http://reconvillage.org/talks-2018/#using-deep-learning-to-uncover-darkweb-malicious-actors-and-their-close-circle----rod-soto-and-josephzadeh)  | 1725 - 1755 | 10th August | 30 Minutes | Comprehensive| 
+| Mauro Caseres | [@mauroeldritch](https://twitter.com/mauroeldritch) | [I fought the law and law lost](http://reconvillage.org/talks-2018/#i-fought-the-law-and-law-lost---mauro-caseres) | 1800 - 1835 | 10th August | 35 Minutes | Comprehensive | 
 
-### <center>Talks Schedule - in Palermo </center>
+<center> <h2>Day 2 - 11th August, 2018 - Saturday</h2> </center>
 
+| Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  |  Talk Length  |  Type  |
+| ------------- |  -------  |  -----------------  |  ---------  |  -----------  |  ----  |
+| Bharath Kumar and Madhu | [@yamakira_](https://twitter.com/yamakira_) | [Building visualisation platforms for OSINT data using open source solutions](http://reconvillage.org/talks-2018/#building-visualisation-platforms-for-osint-data-using-open-source-solutions---bharath-kumar-and-madhu-akula) | 1000 - 1200 | 11th August | 120 Minutes | Workshop
+| Anshuman Bhartiya and Glen Grant| [@anshuman_bh](https://twitter.com/anshuman_bh)| [Bug Bounty Hunting on Steroids](http://reconvillage.org/talks-2018/#bug-bounty-hunting-on-steroids---anshuman-bhartiya-and-glenn-devalias-grant) | 1210 - 1255 | 11th August | 45 Minutes | Comprehensive
+| Mbis0n Shadoru | Undisclosed | [Targeted User Analytics and Human Honeypotss](http://reconvillage.org/talks-2018/#targeted-user-analytics-and-human-honeypotss---mbis0n-shador-not-a-real-name) | 1300 - 1320 | 11th August | 20 Minutes | Lightening
+illwill | [@xillwillx](https://twitter.com/xillwillx) | [Skiptracer - ghetto OSINT for broke hackers](http://reconvillage.org/talks-2018/#skiptracer---ghetto-osint-for-broke-hackers---illwill) | 1325 - 1355 | 11th August | 30 Minutes | Live Demo
+| Lloyd Miller | [@lloydamiller](https://twitter.com/lloydamiller) | [Applied OSINT For Politics: Turning Open Data Into News](http://reconvillage.org/talks-2018/#applied-osint-for-politics-turning-open-data-into-news---lloyd-miller) | 1400 - 1440 | 11th August | 40 Minutes | Comprehensive
+| Jennifer Roderick | Undisclosed | [1983: I’m born. 2018: I’m taking on the bad guys](http://reconvillage.org/talks-2018/#1983-im-born-2018-im-taking-on-the-bad-guys---jennifer-roderick) | 1445 - 1505 | 11th August | 20 Minutes | Lightening
+| Micah Hoffman | [@WebBreacher](https://twitter.com/WebBreacher) | [Core OSINT: Keeping Track of and Reporting All the Things](http://reconvillage.org/talks-2018/#core-osint-keeping-track-of-and-reporting-all-the-things---micah-hoffman) | 1510 - 1550 | 11th August | 40 Minutes | Comprehensive
+| Olivia Thet and Nicolas Kseib | [@trustartech](https://twitter.com/trustartech) | [WhiteRabbit: Combining Threat Intelligence Public Blockchain Data and Machine Learning to go Down the "Dirty Money" Rabbit Hole](http://reconvillage.org/talks-2018/#whiterabbit-combining-threat-intelligence-public-blockchain-data-and-machine-learning-to-go-down-the-dirty-money-rabbit-hole---olivia-thet-and-nicolas-kseib) | 1605 - 1635 | 11th August | 30 Minutes | Live Demo
+| Raye Keslensky | [@lastres0rt](https://twitter.com/lastres0rt) | [Cartoons, Sketchnotes, Bullet Journals and Other Data Visualization Tricks](http://reconvillage.org/talks-2018/#cartoons-sketchnotes-bullet-journals-and-other-data-visualization-tricks---raye-keslensky) | 1200 - 1225 | 12th August |  20 Minutes | Lightening
+| Caleb Madrigal | [@caleb_madrigal](https://twitter.com/caleb_madrigal) | [Mapping wifi networks and triggering on interesting traffic patterns](http://reconvillage.org/talks-2018/#mapping-wifi-networks-and-triggering-on-interesting-traffic-patterns---caleb-madrigal) | 1705 - 1735 | 11th August | 30 Minutes | Comprehensive
+| Mark Klink | [@evilbotnet](https://twitter.com/evilbotnet) | [OpenPiMap - Hacking the hackers with OSINT, Raspberry Pis, and Data Analysis](http://reconvillage.org/talks-2018/#openpimap---hacking-the-hackers-with-osint-raspberry-pis-and-data-analysis---mark-klink) | 1740 - 1800 | 11th August | 20 Minutes | Lightening
+| Michael Gianarakis and Shubham Shah | [@mgianarakis](https://twitter.com/mgianarakis) | [Supercharge Your Web Recon With Commonspeak and Evolutionary Wordlists](http://reconvillage.org/talks-2018/#supercharge-your-web-recon-with-commonspeak-and-evolutionary-wordlists---michael-gianarakis-and-shubham-shah) | 1805- 1835 | 11th August | 30 Minutes | Comprehensive|
 
-| Date, Time <br> (Las Vegas Time)                                        | Title	                    |
-| ------------------------------------------- | ----------------------------------------------------- |
-| 28th July (Friday), 1420 - 1455 | Keynote <br> [It’s Going To Get Worse Before It Gets Better - The Future of Recon Data Mining](http://reconvillage.org/keynote/) *by Shane McDougal*|
-| 28th July (Friday), 1455 - 1540 | [An Introduction to Graph Theory for OSINT](http://reconvillage.org/an-introduction-to-graph-theory-for-osint/) *by Andrew Hay* <br><br>*[Presentation](https://speakerdeck.com/andrewsmhay/an-introduction-to-graph-theory-for-osint)*|
-| 28th July (Friday), 1540 - 1625 | [Into the Bird’s Nest: A Comprehensive Look at Twitter as a Research Tool](http://reconvillage.org/comprehensive-look-at-twitter-as-a-research-tool/) *by Tracy Z. Maleeff*<br><br>*[Presentation](https://www.slideshare.net/reconvillage/rv-defcon25-into-the-birds-nest-a-comprehensive-look-at-twitter-as-a-research-tool-tracy-z-maleeff)*|
-| 28th July (Friday), 1625 - 1645 | Sponsored Talk <br> [Up close and personal - Keeping an eye on mobile applications]() *by Mikhail Sosonkin*|
-| 28th July (Friday), 1700 - 1725 | [Using phonetic algorithms to increase your search space and detect misspellings.](http://reconvillage.org/using-phenotic-algorithms-to-increase-your-search/) *by Alex Kahan*<br><br>*CANCELLED*|
-| 28th July (Friday), 1725 - 1800 | [Attack Surface Discovery with Intrigue](http://reconvillage.org/attack-surface-discovery-with-intrigue/) *by Jcran*<br><br>*[Presentation](https://www.slideshare.net/reconvillage/rv-defcon25-attack-surface-discovery-with-intrigue-jonathan-cran-78779739)*|
-| 28th July (Friday), 1800 - 1835 | [Skip tracing for fun and profit](http://reconvillage.org/skip-tracing-for-fun-and-profit/) *by Rhett Greenhagen*|
-| 29th July (Saturday), 1210 - 1300 | [Domain Discovery: Expanding your scope like a boss](http://reconvillage.org/domain-discovery-expanding-your-scope-like-a-boss) *by Jason Haddix*|
-| 29th July (Saturday), 1300 - 1325 | [Recon and bug bounties what a great love story](http://reconvillage.org/recon-and-bug-bounties-what-a-great-love-story/) *by Abhijeth*<br><br>*[Presentation](https://www.slideshare.net/AbhijethDugginapeddi/recon-and-bug-bounties-what-a-great-love-story)*|
-| 29th July (Saturday), 1325 - 1400 | [Using DFIR Orchestration and Automation Tools and Playbooks For OSINT and Recon](http://reconvillage.org/using-dfir-orchestration-and-automation/) *by Tyler*|
-| 29th July (Saturday), 1400 - 1425 | [Total Recoll: Conducting Investigations without Missing a Thing](http://reconvillage.org/total-recoll-conducting-investigations-without-missing-a-thing/) *by Dakota Nelson*<br><br>*[Presentation](https://www.slideshare.net/reconvillage/rv-defcon25-total-recoll-conducting-investigations-without-missing-a-thing-dakota-nelson)*|
-| 29th July (Saturday), 1450 - 1515 | [How to obtain 100 Facebooks accounts per day through internet searches](http://reconvillage.org/how-to-obtain-100-facebook-accounts-per-day/) *by Guillermo Buendia (m0m0)*<br><br>*[Presentation](https://www.slideshare.net/reconvillage/rv-defcon25-how-to-obtain-100-facebook-accounts-per-day-through-internet-searches-guillermo-buendia)*|
-| 29th July (Saturday), 1515 - 1600 | [OSINT Tactics on Source Code & Developers](http://reconvillage.org/osint-tactics-on-source-code-and-developers/) *by Simon Roses*<br><br>*[Presentation](https://www.slideshare.net/reconvillage/rv-defcon25-osint-tactics-on-source-code-intelligence-simon-roses)*|
-| 30th July (Sunday), 1000 - 1035 | [Building Google For Criminal Enterprises](http://reconvillage.org/building-google-for-criminal-enterprises/) *by Anthony*|
-| 30th July (Sunday), 1035 - 1125 | [FERPA: Only Your Grades Are Safe; OSINT In Higher Education](http://reconvillage.org/only-your-grades-are-safe-osint-in-higher-education/) *by Leah*<br><br>*[Presentation](https://www.slideshare.net/reconvillage/rv-defcon25-ferpa-only-your-grades-are-safe-leah)*|
-| 30th July (Sunday), 1125 - 1155 | [Do Tinder Bots Dream of Electric Toys? How Tinder Bots are breaking hearts all over the world, and trashing Tinder’s reputation  while they’re at it.](http://reconvillage.org/do-tinder-bots-dream-of-electric-toys/) *by Inbar Raz*|
+<center> <h2>Day 3 - 12th August, 2018 - Sunday</h2> </center>
 
-### <center>Workshops Schedule - in Palermo </center>
+| Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  | Date | Talk Length  |  Type  |
+| ------------- |  -------  |  -----------------  |  ---------  | ---- | -----------  |  ----  |
+| Dino Covotsos | [@telspacesystems](https://twitter.com/telspacesystems) | [Hacking the international RFQ Process #killthebuzzwords](http://reconvillage.org/talks-2018/#hacking-the-international-rfq-process-killthebuzzwords---dino-covotsos) | 1000 - 1050 | 12th August | 45 Minutes | Comprehensive
+| Wbbigdave | Undisclosed | [Winning a SANS 504 CTF without winning a SANS CTF](http://reconvillage.org/talks-2018/#winning-a-sans-504-ctf-without-winning-a-sans-ctf---wbbigdave) | 1050 - 1120 | 12th August | 30 Minutes | Live Demo
+| MasterChen | [@chenb0x](https://twitter.com/chenb0x) | [Stalker In A Haystack](http://reconvillage.org/talks-2018/#stalker-in-a-haystack---masterchen) | 1125 - 1255 | 12th August | 30 Minutes | Comprehensive
+| Jacob Wilkin | [@Jacob_Wilkin](https://twitter.com/Jacob_Wilkin) | [Mapping Social Media with Facial Recognition](http://reconvillage.org/talks-2018/#mapping-social-media-with-facial-recognition---jacob-wilkin) | 1300 - 1325 | 11th August | 20 Minutes | Lightening
+| Recon Village Team | [@name](https://twitter.com/name) | Hackathon and CTF Prizes, and a Group Photo | 1325 - 1340 | 12th August | 15 Minutes | Hackathon and CTF Prizes
+| Shubham Mittal / Sudhanshu Chauhan | [@upgoingstar](https://twitter.com/upgoingstar) / [@sudhanshu_c](https://twitter.com/sudhanshu_c) | Closing Note | 1345 - 1400 | 12th August | 15th Minutes | Closing Note | 
 
-| Date, Time (Las Vegas Time)                       | Title	                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| 29th July (Saturday), 1000 - 1200 | [Intro to OSINT: Zero on the way to Hero](http://reconvillage.org/intro-to-osint-workshop/) *by Joe Gray*| 
-| 29th July (Saturday), 1600 - 1800 | [Burner Phone Challenge](http://reconvillage.org/burner-phone-challenge/) *by Dakota Nelson*<br><br>*[Presentation](https://www.slideshare.net/reconvillage/rv-defcon25-burner-phone-challenge-dakota-nelson)*|
-
-### <center>CTF Schedule - in Sienna</center>
-
-| Date, Time (Las Vegas Time)                       | Title	                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| 28th July (Friday), 1420 | CTF Start | 
-| 30th July (Sunday), 1200 | CTF Stop |
-| 30th July (Sunday), 1200 - 1230  | Winner Announcement / Prize Distribution|
-
-### <center>Recon Village Timeline</center>
-
-| What?                                        | When?	                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| @ c0c0n | 18th - 19th August 2017|
-| @ DEFCON 25 | 28th - 30th July 2017|
-| OSINT CTF Reg Open | 15th July 2017 |
-| @ DEFCON 25 <b>CFP</b> Close | 1st July 2017 |
-| @ DEFCON 25 Call for Volunteers OPEN | 8th May 2017 |
-| @ DEFCON 25 <b>CFP</b> OPEN | 8th May 2017 |
 
 
 
