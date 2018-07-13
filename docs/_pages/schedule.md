@@ -56,7 +56,7 @@ illwill | [@xillwillx](https://twitter.com/xillwillx) | [Skiptracer - ghetto OSI
 | Dino Covotsos | [@telspacesystems](https://twitter.com/telspacesystems) | [Hacking the international RFQ Process #killthebuzzwords](http://reconvillage.org/talks-2018/#hacking-the-international-rfq-process-killthebuzzwords---dino-covotsos) | 1000 - 1050 | 12th August | 45 Minutes | Comprehensive
 | Wbbigdave | Undisclosed | [Winning a SANS 504 CTF without winning a SANS CTF](http://reconvillage.org/talks-2018/#winning-a-sans-504-ctf-without-winning-a-sans-ctf---wbbigdave) | 1050 - 1120 | 12th August | 30 Minutes | Live Demo
 | MasterChen | [@chenb0x](https://twitter.com/chenb0x) | [Stalker In A Haystack](http://reconvillage.org/talks-2018/#stalker-in-a-haystack---masterchen) | 1125 - 1255 | 12th August | 30 Minutes | Comprehensive
-| Jacob Wilkin | [@Jacob_Wilkin](https://twitter.com/Jacob_Wilkin) | [Mapping Social Media with Facial Recognition](http://reconvillage.org/talks-2018/#mapping-social-media-with-facial-recognition---jacob-wilkin) | 1300 - 1325 | 11th August | 20 Minutes | Lightening
-| Recon Village Team | [@name](https://twitter.com/name) | Hackathon and CTF Prizes, and a Group Photo | 1325 - 1340 | 12th August | 15 Minutes | Hackathon and CTF Prizes
-| Shubham Mittal / Sudhanshu Chauhan | [@upgoingstar](https://twitter.com/upgoingstar) / [@sudhanshu_c](https://twitter.com/sudhanshu_c) | Closing Note | 1345 - 1400 | 12th August | 15th Minutes | Closing Note | 
+| Jacob Wilkin | [@Jacob_Wilkin](https://twitter.com/Jacob_Wilkin) | [Mapping Social Media with Facial Recognition](http://reconvillage.org/talks-2018/#mapping-social-media-with-facial-recognition---jacob-wilkin) | 1200 - 1225 | 12th August | 20 Minutes | Lightening
+| Recon Village Team | [@name](https://twitter.com/name) | Hackathon and CTF Prizes, and a Group Photo | 1225 - 1240 | 12th August | 15 Minutes | Hackathon and CTF Prizes
+| Shubham Mittal / Sudhanshu Chauhan | [@upgoingstar](https://twitter.com/upgoingstar) / [@sudhanshu_c](https://twitter.com/sudhanshu_c) | Closing Note | 1245 - 1300 | 12th August | 15th Minutes | Closing Note | 
 
