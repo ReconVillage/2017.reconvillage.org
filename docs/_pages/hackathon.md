@@ -24,8 +24,8 @@ Are you game? Go Register now.
 
 Find below more information about the same.
 <br> - **When:** 10th August to 12th August 10:AM
-<br> - **Tool/Product Showcase:** 12th August 10:00 AM to 12:30 PM
-<br> - **Prize Distribution:** 12th August, 01:30 PM
+<br> - **Tool/Product Showcase:** 12th August 10:00 AM to 10:50 AM
+<br> - **Prize Distribution:** 12th August, 12:25 AM
 
 **Rules:** 
 
@@ -35,7 +35,7 @@ Find below more information about the same.
 
 *3. You will have to make the product/tool during the event. Tools have to be related to Reconnassaince / OSINT. However specific theme on which these tools/products can be made, will be announced on 10th August 2018.*
 
-*4. By the end of 11th August, team(s) will have to share the progress of their tool/product. Based on that, top 10 teams will be invited to showcase their tool during the Showcase Hours - 10:00 AM to 12:30 PM, 12th August.*
+*4. By the end of 11th August, team(s) will have to share the progress of their tool/product. Based on that, top 10 teams will be invited to showcase their tool during the Showcase Hours - 10:00 AM to 10:50 PM, 12th August.*
 
 *5. Each of these top 10 Team gets 10 minutes to showcase their work. Our jury members will select the winning teams.* 
 
@@ -45,9 +45,9 @@ Find below more information about the same.
 
 *8. If you don't want to put it on your Github Account, you can put it under ReconVillage's 2018 HACKATHON Github Account. In any case you can use RV HACKATHON Badge on your Github repo.* 
 
-*9. Participants have to be available in Person during the Showcase Hours - 10:00 AM to 12:30 PM, 12th August at DEFCON 26 - Recon Village, Florentine II Room.* 
+*9. Participants have to be available in Person during the Showcase Hours - 10:00 AM to 10:50 PM, 12th August at DEFCON 26 - Recon Village, Florentine II Room.* 
 
-*10. Winners Announcement and Prize Distribution will take place at 1:30 PM - 12th August in Florentine II Room.* 
+*10. Winners Announcement and Prize Distribution will take place at 12:25 PM - 12th August in Florentine II Room.* 
 
 *11. Teams will have to bring in their own laptops. Recon Village will not be able to provide you laptops. We will provide power strips but you will have to bring power converters (if required).*
 
