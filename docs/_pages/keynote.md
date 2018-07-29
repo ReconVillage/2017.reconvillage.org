@@ -1,7 +1,9 @@
 ---
+permalink: /keynote-2018/
 title: "Keynote: From Breach to Bust: A short story of graphing and grey data"
 author: upgoingstar
 excerpt: "mm"
+
 ---
 
 > The OSINT and reconnaissance landscape is beginning to face some challenges. Current valuable sources such as open sourced lists are already facing offensive and malicious data poisoning. 
