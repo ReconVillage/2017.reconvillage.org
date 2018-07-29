@@ -22,7 +22,7 @@ Note: If you think there should be any corrections, please contact us at [contac
 | Speaker Name  |  Twitter  |  Title of the Talk  |  Time Slot  |  Talk Length  |  Type  |
 | ------------- |  -------  |  -----------------  |  ---------  |  -----------  |  ----  |
 | Shubham Mittal / Sudhanshu Chahuhan | [@upgoingstar](https://twitter.com/upgoingstar) / [@sudhanshu_c](https://twitter.com/sudhanshu_c) | **Opening Note** | 1200 - 1210 | 10th August | 10 Minutes | Opening Note| 
-| Andrew Macpherson | [@AndrewMohawk](https://twitter.com/AndrewMohawk) | **Keynote** | 1210 - 1250 | 10th August | 40 Minutes | Keynote| 
+| Andrew Macpherson | [@AndrewMohawk](https://twitter.com/AndrewMohawk) | **Keynote - From Breach to Bust: A short story of graphing and grey data** | 1210 - 1250 | 10th August | 40 Minutes | Keynote| 
 | Jason Haddix | [@jhaddix](https://twitter.com/jhaddix) | [Emergent Recon - fresh methodology and tools for hackers in 2018](http://reconvillage.org/talks-2018/#emergent-recon---fresh-methodology-and-tools-for-hackers-in-2018---jason-haddix) | 1255 - 1335 | 10th August | 40 Minutes | Comprehensive| 
 | William Suthers | [@VICT0RIS](https://twitter.com/VICT0RIS) | [Prebellico - 100% Passive Pre-Engagement and Post Compromise Network Reconnaissance Tool](http://reconvillage.org/talks-2018/#prebellico---100-passive-pre-engagement-and-post-compromise-network-reconnaissance-tool---william-suthers) | 1440 - 1510 | 10th August | 30 Minutes | Live Demo| 
 | Marc DaCosta | [@marc_dacosta](https://twitter.com/marc_dacosta) | [Adventures in the dark web of government data](http://reconvillage.org/talks-2018/#adventures-in-the-dark-web-of-government-data---marc-dacosta) | 1515 - 1545 | 10th August | 30 Minutes | Comprehensive| 
