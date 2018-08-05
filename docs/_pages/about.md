@@ -32,15 +32,20 @@ Neelu Tripathy [(@neelutripathy)](https://twitter.com/neelutripathy)<br>
 Antriksh Shah[(@antriksh_s)](https://twitter.com/antriksh_s)<br>
 Sanoop Thomas [(@s4n7h0)](https://twitter.com/s4n7h0)<br>
 Pankit Dubal[(@p0wn_YamraJ)](https://twitter.com/p0wn_YamraJ)<br>
-Chandrapal [(@bnchandrapal)](https://twitter.com/bnchandrapal)<br>
+Chandrapal [(@bnchandrapal)](https://twitter.com/bnchandrapal)
 
 
 ### CFP Review Panel (DEFCON 26)
-Justin Nordine[(@anantshri)](https://twitter.com/jnordine)<br>
 Justin Seitz (@jms_dot_py)](https://twitter.com/jms_dot_py)<br>
 Anant Srivastava [(@anantshri)](https://twitter.com/anantshri)<br>
 Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)<br>
-Akash Mahajan[(@makash)](https://twitter.com/makash)<br>
+Akash Mahajan[(@makash)](https://twitter.com/makash)
+
+
+### Hackathon Jury Panel
+Justin Nordine[(@anantshri)](https://twitter.com/jnordine)<br>
+Justin Nordine[(@MaxiSoler)](https://twitter.com/MaxiSoler)<br>
+
 
 ### Contact Us:
 We tweet and give announcements about important updates before, during, and after DEFCON / other events from our Twitter handle [@reconvillage](https://twitter.com/reconvillage) and our Facebook page [@reconvillage](https://facebook.com/reconvillage). Watch out for major announcements and other  recon or OSINT related tweets / retweets / updates.
