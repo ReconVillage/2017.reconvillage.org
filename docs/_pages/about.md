@@ -27,7 +27,7 @@ Sandeep Singh [(@sandy1sm)](https://twitter.com/sandy1sm)<br>
 Kunal Aggarwal [(@aggkunal)](https://twitter.com/aggkunal)<br>
 Anant Srivastava [(@anantshri)](https://twitter.com/anantshri)<br>
 Prashant Mahajan [(@prashant3535)](https://twitter.com/prashant3535)<br>
-Jennifer Roderick[(@anantshri)](https://twitter.com/anantshri)<br>
+Jennifer Roderick<br>
 Neelu Tripathy [(@neelutripathy)](https://twitter.com/neelutripathy)<br>
 Antriksh Shah[(@antriksh_s)](https://twitter.com/antriksh_s)<br>
 Sanoop Thomas [(@s4n7h0)](https://twitter.com/s4n7h0)<br>
@@ -43,8 +43,8 @@ Akash Mahajan[(@makash)](https://twitter.com/makash)
 
 
 ### Hackathon Jury Panel
-Justin Nordine[(@anantshri)](https://twitter.com/jnordine)<br>
-Maximiliano Soler[(@MaxiSoler)](https://twitter.com/MaxiSoler)
+Justin Nordine[(@jnordine)](https://twitter.com/jnordine)<br>
+Maximiliano Soler[(@MaxiSoler)](https://twitter.com/MaxiSoler
 
 
 ### Contact Us:
