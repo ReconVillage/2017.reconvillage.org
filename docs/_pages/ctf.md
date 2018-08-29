@@ -19,6 +19,16 @@ Our CTF is an online / offline 3 days Jeopardy Style Contest where we will creat
 
 Challenges will need you to apply OSINT as well as your Hacker skills to find the flags. 
 
+1st Winner: D3vzero
+
+2nd Winner: QultOftheQuantumQow
+
+3rd Winner: bufferhomerflow
+
+Here is how the final scoreboard looks like:
+
+<center><img src='https://pbs.twimg.com/media/DkajkGnUYAEg0p9.jpg:large'></center>
+
 ## <center> OSINT CTF Schedule </center>
 
 | What?                                        | When?	                                           |
