@@ -20,8 +20,8 @@ With this HACKATHON, we strive to achieve multiple objectives at the same time. 
 
 ## Winners of Recon Village HACKATHON @ DEFCON 26
 
-1st Winner: CRHacks	[John Survant, Silvia Gonzalez]
-2nd Winner: RTL-Researching [Brad, Lyn]
+* 1st Winner: CRHacks	[John Survant, Silvia Gonzalez]
+* 2nd Winner: RTL-Researching [Brad, Lyn]
 
 ## <center> Hackathon Schedule </center>
 
