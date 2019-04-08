@@ -1,4 +1,5 @@
-# Welcome to Jekyll!
+#
+Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -11,7 +12,7 @@ title                    : "Recon Village"
 title_separator          : "-"
 name                     : &name "Recon Village" # &name is a YAML anchor which can be *referenced later
 description              : &description "An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance."
-url                      : http://reconvillage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://2018.reconvillage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/reconvillage" # the subpath of your site, e.g. "/blog"
 repository               : "reconvillage/reconvillage"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
